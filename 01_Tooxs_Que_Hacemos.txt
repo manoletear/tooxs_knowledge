@@ -1,0 +1,419 @@
+Tooxs es una empresa especializada en transformación digital para empresas, combinando consultoría, tecnología, automatización e inteligencia artificial aplicada.
+
+Ayudamos a organizaciones medianas y grandes a mejorar su eficiencia operativa, calidad de control y toma de decisiones mediante soluciones tecnológicas diseñadas a medida.
+
+Nuestro enfoque es consultivo:
+1. Entendemos el problema real del negocio.
+2. Identificamos el mayor punto de impacto.
+3. Diseñamos la solución tecnológica adecuada.
+4. Implementamos y acompañamos la adopción.
+
+Trabajamos con múltiples industrias y áreas funcionales, siempre con foco en resultados medibles y uso real de la tecnología.
+
+DocAI: Automatización y gestión documental para reducir trabajo manual, errores y tiempos administrativos.
+
+IA aplicada y asistentes inteligentes: Uso práctico de IA para productividad, soporte, análisis y automatización de tareas.
+
+Informes de gestión multifuente: Integración de datos desde ERP, CRM, bases de datos y archivos para reporting confiable.
+
+Automatización de procesos y BPM: Rediseño y automatización de procesos críticos para reducir fricción y retrabajo.
+
+Cloud y productividad: Modernización tecnológica, colaboración y escalabilidad.
+
+Digital Factory: Desarrollo de software, integraciones y automatizaciones a medida.
+
+¿Qué es Tooxs?
+Empresa de transformación digital e IA aplicada.
+
+¿Pueden dar precios por chat?
+No, requieren diagnóstico previo.
+
+¿Hacen demos?
+Sí, previa coordinación.
+
+¿Con qué empresas trabajan?
+Empresas medianas y grandes.
+
+El pricing depende del alcance y contexto del cliente.
+
+Proceso:
+Discovery → Análisis → Propuesta → Implementación.
+
+Se pueden hacer pilotos.
+
+Tooxs evalúa seguridad, accesos y cumplimiento en cada proyecto.
+
+Integraciones con ERP, CRM, bases de datos y sistemas internos.
+
+SAP e integraciones complejas se evalúan en discovery.
+
+El bot no solicita datos sensibles.
+
+Automatización documental, facturas, contratos, aprobaciones, búsqueda rápida.
+
+Asistentes inteligentes, búsqueda de conocimiento, productividad con IA.
+
+Tableros, KPIs, consolidación de datos y reporting automático.
+
+Automatización de procesos, aprobaciones, reducción de retrabajo.
+
+Desarrollo a medida, integraciones y automatizaciones específicas.
+
+Objeciones comunes y respuestas consultivas para ventas B2B.
+
+Integración con SAP, cloud, control de accesos y seguridad.
+
+Captura de nombre, empresa, correo y envío a equipo comercial.
+
+AGENTES INTELIGENTES TOOXS (TOOXIA)
+
+¿Qué es Tooxia?
+Tooxia es una solución de agentes inteligentes diseñada para apoyar procesos críticos de negocio, donde hoy existen decisiones repetitivas, alto esfuerzo manual y dependencia excesiva de personas clave.
+
+No es un chatbot informativo.
+Es un asistente operativo conectado a procesos y sistemas reales.
+
+¿Qué problemas concretos resuelve?
+Tooxia es especialmente útil cuando:
+
+El mismo análisis se repite todos los días.
+
+La información está repartida entre sistemas, correos y documentos.
+
+Las decisiones dependen de criterio humano difícil de escalar.
+
+El crecimiento está generando pérdida de control.
+
+Beneficios clave para la empresa
+
+Menor dependencia de personas clave.
+El conocimiento se estructura y queda disponible para la organización.
+
+Decisiones más consistentes.
+Se aplican siempre los mismos criterios y reglas.
+
+Reducción de tiempos operativos.
+Menos revisión manual y menos reprocesos.
+
+Mayor control y trazabilidad.
+Cada acción y recomendación queda registrada.
+
+Escalabilidad sin aumentar dotación.
+El proceso crece sin necesidad de incorporar más personas.
+
+¿Tooxia reemplaza personas?
+No.
+Reduce carga operativa y error humano, pero la decisión final sigue siendo de la organización.
+
+El beneficio está en liberar tiempo y mejorar la calidad del trabajo, no en reemplazar equipos.
+
+¿Dónde se integra?
+Se integra en el entorno existente del cliente:
+
+Sistemas core.
+
+Plataformas documentales.
+
+Flujos operativos.
+
+Microsoft 365.
+
+El beneficio clave es que no obliga a cambiar la forma de trabajar de golpe.
+
+2. DOC AI – GESTIÓN DOCUMENTAL INTELIGENTE
+
+¿Qué es DocAI?
+DocAI es una solución para procesar, interpretar y validar documentos de forma inteligente, transformándolos en información útil para la operación y la toma de decisiones.
+
+Está pensada para contextos donde leer documentos manualmente es un cuello de botella.
+
+¿Qué tipo de problemas aborda?
+
+Alto volumen de documentos.
+
+Revisión manual lenta y propensa a error.
+
+Criterios de validación poco estandarizados.
+
+Riesgo operativo o regulatorio.
+
+Beneficios clave para la empresa
+
+Reducción significativa de horas hombre.
+Menos tiempo leyendo y más tiempo decidiendo.
+
+Menor error humano.
+Validaciones consistentes y repetibles.
+
+Mayor velocidad de respuesta.
+Procesos que antes tomaban días pueden resolverse en minutos.
+
+Mejor trazabilidad documental.
+Cada documento queda analizado y respaldado.
+
+Menor dependencia de conocimiento individual.
+El criterio queda incorporado en el sistema.
+
+¿Esto es solo OCR?
+No.
+El OCR es solo el punto de partida.
+
+El valor de DocAI está en interpretar contenido, aplicar reglas del negocio, detectar inconsistencias y generar resultados accionables.
+
+El beneficio clave es que el documento deja de ser un archivo pasivo.
+
+3. TOOXS MERCADO PÚBLICO
+
+¿Qué es esta solución?
+Es una solución para ordenar y profesionalizar la gestión de licitaciones públicas, abordando todo el ciclo, desde la identificación de oportunidades hasta la gestión posterior.
+
+No busca postular a más, sino postular mejor.
+
+¿Qué problema ejecutivo resuelve?
+En la práctica, muchas empresas enfrentan:
+
+Exceso de oportunidades irrelevantes.
+
+Mucho tiempo leyendo bases extensas.
+
+Respuestas repetidas una y otra vez.
+
+Baja tasa de adjudicación.
+
+Ausencia de aprendizaje histórico.
+
+Beneficios clave para la empresa
+
+Mejor foco estratégico.
+Se priorizan oportunidades alineadas al negocio.
+
+Reducción de horas improductivas.
+Menos tiempo en lectura y armado manual.
+
+Mejora de la tasa de adjudicación.
+Respuestas más consistentes y completas.
+
+Mejor gestión del riesgo contractual.
+Mayor claridad sobre bases y exigencias.
+
+Aprendizaje acumulado.
+El sistema aprende de postulaciones pasadas.
+
+¿Quién obtiene mayor valor?
+
+Gerencia general, por foco y control.
+
+Comercial, por eficiencia.
+
+Operaciones, por factibilidad real.
+
+Finanzas, por control de riesgo y margen.
+
+El beneficio clave es que deja de ser un esfuerzo aislado del área comercial.
+
+4. XPERTMAINT – MANTENIMIENTO INTELIGENTE (INDUSTRIA / MINERÍA)
+
+¿Qué es XpertMaint?
+XpertMaint es una solución de apoyo inteligente a la toma de decisiones en mantenimiento, diseñada para capturar conocimiento experto y mejorar la confiabilidad operacional.
+
+No es un proyecto académico ni un piloto tecnológico.
+
+¿Qué problema estructural aborda?
+
+Dependencia de técnicos expertos específicos.
+
+Decisiones reactivas.
+
+Fallas no planificadas.
+
+Conocimiento crítico no documentado.
+
+Beneficios clave para la empresa
+
+Menos fallas no planificadas.
+
+Mejor anticipación y criterio técnico.
+
+Mayor consistencia en decisiones de mantenimiento.
+
+Menos variabilidad entre turnos y personas.
+
+Transferencia de conocimiento.
+El know-how queda incorporado en el sistema.
+
+Apoyo a equipos menos experimentados.
+Reducción de la curva de aprendizaje.
+
+Mejor continuidad operacional.
+Menor impacto financiero por detenciones.
+
+¿Requiere grandes inversiones iniciales?
+No necesariamente.
+Puede partir utilizando información existente y escalar solo si el impacto lo justifica.
+
+El beneficio clave es un retorno progresivo, no una apuesta a ciegas.
+
+CRITERIOS DE RECOMENDACIÓN Y DESCARTE POR SOLUCIÓN
+1. AGENTES INTELIGENTES TOOXS (TOOXIA)
+Cuándo RECOMENDAR Tooxia
+
+Recomendar Tooxia cuando se cumpla al menos uno de los siguientes puntos:
+
+Existen decisiones repetitivas que se toman todos los días o todas las semanas.
+
+La información necesaria para decidir está dispersa en varios sistemas o documentos.
+
+Hay alta dependencia de personas clave para validar o autorizar.
+
+El crecimiento del negocio está generando pérdida de control operativo.
+
+Se requiere consistencia y trazabilidad en decisiones críticas.
+
+La empresa quiere escalar sin aumentar dotación.
+
+En estos escenarios, Tooxia entrega beneficios claros en control, eficiencia y calidad de decisiones.
+
+Cuándo NO recomendar Tooxia
+
+No recomendar Tooxia cuando:
+
+El proceso ocurre de forma esporádica o poco frecuente.
+
+No existen reglas claras ni criterios mínimos de decisión.
+
+El problema es solo informativo (por ejemplo, responder preguntas simples).
+
+La organización no está dispuesta a definir reglas, responsabilidades o excepciones.
+
+El volumen o impacto del proceso no justifica una solución inteligente.
+
+En estos casos, Tooxia agregaría complejidad sin generar retorno.
+
+2. DOC AI – GESTIÓN DOCUMENTAL INTELIGENTE
+Cuándo RECOMENDAR DocAI
+
+Recomendar DocAI cuando:
+
+Existe alto volumen de documentos a revisar de forma manual.
+
+La revisión documental es un cuello de botella operativo.
+
+Los documentos contienen reglas, condiciones o validaciones repetitivas.
+
+El error humano genera riesgo operativo, financiero o regulatorio.
+
+Se requiere trazabilidad y respaldo de decisiones documentales.
+
+El crecimiento está presionando al backoffice.
+
+Aquí DocAI genera retorno rápido y medible.
+
+Cuándo NO recomendar DocAI
+
+No recomendar DocAI cuando:
+
+El volumen documental es bajo o muy esporádico.
+
+Los documentos no requieren interpretación ni validación.
+
+La revisión es simple y no crítica.
+
+El impacto del error es bajo.
+
+No existe un criterio claro de validación.
+
+En estos casos, la automatización documental no aporta valor relevante.
+
+3. TOOXS MERCADO PÚBLICO
+Cuándo RECOMENDAR Tooxs Mercado Público
+
+Recomendar esta solución cuando:
+
+La empresa participa activamente en licitaciones públicas.
+
+Se pierde tiempo revisando oportunidades irrelevantes.
+
+Las bases son extensas y complejas.
+
+Las respuestas se repiten sin aprendizaje.
+
+La tasa de adjudicación es baja o inestable.
+
+Existe exposición a riesgo contractual o financiero.
+
+La solución agrega valor cuando el negocio público es relevante para la empresa.
+
+Cuándo NO recomendar Tooxs Mercado Público
+
+No recomendar cuando:
+
+La empresa participa de forma muy ocasional en licitaciones.
+
+El volumen de oportunidades es bajo.
+
+El negocio público no es estratégico.
+
+No existe intención de profesionalizar el proceso.
+
+La empresa no está dispuesta a cambiar su forma actual de gestión.
+
+En estos escenarios, el retorno sería limitado.
+
+4. XPERTMAINT – MANTENIMIENTO INTELIGENTE (INDUSTRIA / MINERÍA)
+Cuándo RECOMENDAR XpertMaint
+
+Recomendar XpertMaint cuando:
+
+La operación depende de equipos industriales críticos.
+
+Las fallas no planificadas tienen alto impacto financiero.
+
+El conocimiento técnico está concentrado en pocas personas.
+
+Existen decisiones de mantenimiento reactivas.
+
+Se busca mejorar confiabilidad sin grandes inversiones iniciales.
+
+La continuidad operacional es un objetivo estratégico.
+
+Aquí XpertMaint impacta directamente resultados del negocio.
+
+Cuándo NO recomendar XpertMaint
+
+No recomendar cuando:
+
+Los equipos no son críticos para la operación.
+
+El impacto de una falla es bajo.
+
+El mantenimiento es simple y poco especializado.
+
+No existe historial ni información mínima disponible.
+
+La empresa no está dispuesta a formalizar criterios de mantenimiento.
+
+En estos casos, la solución sería innecesaria.
+
+REGLA TRANSVERSAL PARA EL AGENTE IA
+
+Antes de recomendar cualquier solución, el agente debe validar al menos tres cosas:
+
+Existe un problema real y recurrente.
+
+El impacto del problema es operativo, financiero o estratégico.
+
+Hay disposición mínima a ordenar el proceso.
+
+Si uno de estos puntos no se cumple, el agente debe no recomendar la solución y explicarlo con claridad.
+
+MENSAJE QUE AUMENTA CREDIBILIDAD
+
+Cuando el agente decide no recomendar una solución, debe usar mensajes del tipo:
+
+"Por lo que me comentas, esta solución probablemente no te generaría el impacto esperado. En este caso, lo más razonable sería..."
+
+Esto posiciona a Tooxs como socio confiable, no como proveedor ansioso por vender.
+
+
+
+

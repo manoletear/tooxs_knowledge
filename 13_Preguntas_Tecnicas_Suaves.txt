@@ -1,0 +1,81 @@
+PREGUNTAS TÉCNICAS SUAVES – RESPUESTAS PARA EL AGENTE
+
+Este archivo contiene respuestas a preguntas técnicas que hacen los prospectos durante una conversación de ventas B2B.
+Son preguntas técnicas, pero el agente debe responderlas de forma consultiva y accesible, no con jerga tecnológica.
+El objetivo no es dar una respuesta técnica exhaustiva, sino generar confianza y avanzar hacia el handoff con el equipo comercial.
+
+PREGUNTA: ¿QUÉ TECNOLOGÍA USAN?
+
+Contexto: El prospecto quiere saber si Tooxs usa tecnologías reconocidas o propietarias.
+
+Respuesta del agente:
+"Tooxs trabaja con las tecnologías más adecuadas para cada problema. Entre las más frecuentes: Microsoft Azure, Google Cloud Platform, Power BI, SAP integrations, Python, y plataformas de automatización como Power Automate. La elección siempre sigue al problema del negocio, no al revés. ¿Hay alguna tecnología específica que sea relevante para su contexto?"
+
+PREGUNTA: ¿ES EN LA NUBE O ON-PREMISE?
+
+Contexto: El prospecto puede tener restricciones de seguridad o políticas que afectan dónde pueden alojar datos.
+
+Respuesta del agente:
+"Depende de los requisitos del cliente. Tooxs trabaja tanto en esquemas cloud (Azure, Google Cloud) como en instalaciones on-premise o en entornos híbridos. Cuando hay restricciones de seguridad o regulatorias, diseñamos la arquitectura para cumplirlas. ¿Tienen alguna política específica sobre dónde deben residir los datos?"
+
+PREGUNTA: ¿CÓMO SE INTEGRA CON SAP?
+
+Contexto: Muchas empresas medianas y grandes en Chile usan SAP y quieren saber si Tooxs puede trabajar sobre él.
+
+Respuesta del agente:
+"Tooxs tiene experiencia en integración con SAP S4/HANA y SAP Business One. Las integraciones pueden ser a nivel de API, extracción de datos, o automatización de procesos que operan sobre SAP. El alcance específico de una integración SAP se define en la etapa de discovery. ¿Qué versión de SAP tienen y qué proceso querían integrar?"
+
+PREGUNTA: ¿QUÉ MODELO DE IA USAN?
+
+Contexto: El prospecto quiere entender si usan modelos propios, de OpenAI, de Microsoft u otros.
+
+Respuesta del agente:
+"Tooxs utiliza modelos de inteligencia artificial de proveedores líderes como OpenAI, Microsoft Azure AI y Google Cloud AI, entre otros, dependiendo del caso de uso. Los modelos se configuran y ajustan al contexto y datos del cliente. No desarrollamos modelos desde cero cuando existe una solución de mercado que resuelve bien el problema. ¿Tienen alguna preferencia o restricción respecto al proveedor de IA?"
+
+PREGUNTA: ¿CUÁNTO TIEMPO LLEVA UNA IMPLEMENTACIÓN?
+
+Contexto: El prospecto quiere estimar el tiempo antes de ver resultados.
+
+Respuesta del agente:
+"Depende del alcance y la complejidad del proceso. Como referencia: una automatización de proceso simple puede estar en producción en 2-4 semanas. Un tablero de gestión conectado a múltiples fuentes, en 4-8 semanas. Un proyecto de agente inteligente o DocAI con integraciones, en 6-12 semanas. Tooxs trabaja en fases, lo que permite tener resultados medibles temprano. ¿Qué urgencia tienen para ver los primeros resultados?"
+
+PREGUNTA: ¿CÓMO SE ENTRENA O CONFIGURA LA SOLUCIÓN?
+
+Contexto: El prospecto quiere entender si necesita preparar datos o participar activamente.
+
+Respuesta del agente:
+"La configuración inicial se hace en conjunto con el cliente. Tooxs necesita entender el proceso, las reglas del negocio y los datos disponibles. El cliente es el experto en su negocio; Tooxs aporta la metodología y la tecnología. En general, el equipo del cliente dedica tiempo concentrado en las primeras semanas de implementación, y luego la carga disminuye. ¿Tienen equipo disponible para participar en la etapa de levantamiento de requerimientos?"
+
+PREGUNTA: ¿QUIÉN ADMINISTRA LA SOLUCIÓN DESPUÉS?
+
+Contexto: El prospecto quiere saber si queda dependiente de Tooxs o si puede operarla internamente.
+
+Respuesta del agente:
+"Tooxs diseña las soluciones para que el cliente pueda operarlas con autonomía. En la entrega se incluye capacitación al equipo del cliente y documentación de la solución. Para ajustes o evoluciones, Tooxs ofrece esquemas de soporte continuo. El nivel de dependencia depende de la complejidad técnica de la solución. ¿Tienen equipo técnico interno que quiera administrar la solución?"
+
+PREGUNTA: ¿QUÉ PASA CON LOS DATOS DEL CLIENTE?
+
+Contexto: El prospecto tiene preocupaciones legítimas sobre confidencialidad y uso de sus datos.
+
+Respuesta del agente:
+"Los datos del cliente son del cliente. Tooxs no usa datos de un cliente para entrenar modelos de otro cliente ni para ningún otro propósito fuera del proyecto. Los accesos y permisos se definen y documentan en la etapa de discovery, y se trabaja dentro de la infraestructura del cliente cuando los requisitos de seguridad así lo exigen. ¿Tienen un equipo de seguridad o cumplimiento con quien deberíamos coordinar?"
+
+PREGUNTA: ¿PUEDEN HACER UN PILOTO ANTES DE COMPROMETERSE?
+
+Contexto: El prospecto quiere reducir el riesgo antes de una inversión mayor.
+
+Respuesta del agente:
+"Sí. Tooxs trabaja con pilotos acotados que permiten validar el retorno antes de escalar. Un piloto típico se diseña sobre un proceso o caso de uso específico, con un alcance y tiempo definidos. Al final del piloto, el cliente tiene evidencia concreta del impacto para tomar una decisión informada. ¿Qué proceso o área sería el candidato natural para empezar?"
+
+PREGUNTA: ¿CON QUÉ EMPRESAS HAN TRABAJADO?
+
+Contexto: El prospecto quiere saber si Tooxs tiene experiencia relevante para su industria.
+
+Respuesta del agente:
+"Tooxs tiene experiencia en minería, industria pesada, construcción, servicios B2B, financiero, agroindustria, utilities, transporte y logística, entre otros. El equipo acumula más de 20 años de experiencia en Chile y Latinoamérica. Para profundizar en casos específicos de su industria, lo más útil es agendar una conversación con el equipo comercial. ¿Le interesa que coordinemos una reunión?"
+
+PRINCIPIO PARA EL AGENTE
+
+Ante preguntas técnicas, el agente no debe responder con más detalle técnico del necesario.
+La respuesta debe generar confianza y avanzar hacia una conversación más profunda con el equipo de Tooxs.
+Si la pregunta técnica es muy específica o el prospecto parece estar en etapa de evaluación técnica profunda, el agente debe ofrecer el handoff con el equipo comercial o técnico de Tooxs.

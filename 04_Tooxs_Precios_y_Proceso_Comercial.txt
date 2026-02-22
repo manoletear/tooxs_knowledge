@@ -1,0 +1,74 @@
+PRECIOS Y PROCESO COMERCIAL – TOOXS
+
+MODELO DE PRECIOS
+
+Tooxs no tiene precios de lista ni tarifas estándar publicadas.
+El precio depende del alcance, la complejidad del proceso y el contexto específico del cliente.
+
+Cada proyecto es diferente porque cada problema de negocio es diferente.
+Dar un precio sin entender el contexto sería irresponsable e impreciso.
+
+FACTORES QUE DETERMINAN EL PRECIO
+
+Complejidad del proceso a intervenir.
+Un proceso simple con pocas integraciones tiene un costo significativamente menor que un proceso complejo con múltiples sistemas.
+
+Número de integraciones requeridas.
+Conectar SAP con otro sistema tiene un costo diferente a trabajar sobre datos de Excel.
+
+Alcance de la implementación.
+Un piloto acotado de 4 semanas tiene un costo diferente a una implementación completa con múltiples áreas.
+
+Nivel de personalización.
+Las soluciones que requieren desarrollo a medida tienen un mayor costo que configuraciones sobre plataformas existentes.
+
+Modalidad de entrega.
+Proyectos de precio fijo (alcance definido) o modalidades de trabajo continuo con el equipo de Tooxs.
+
+OPCIÓN DE PILOTO
+
+Tooxs ofrece pilotos acotados para clientes que quieren validar el retorno antes de comprometer una inversión mayor.
+
+Un piloto típico:
+Se diseña sobre un proceso o caso de uso específico y concreto.
+Tiene un alcance y tiempo definidos (generalmente 4-8 semanas).
+Entrega evidencia medible del impacto al final del período.
+Permite al cliente tomar una decisión informada sobre si escalar o no.
+
+El piloto no es un regalo: tiene un costo, pero es significativamente menor al de un proyecto completo y elimina el riesgo de una inversión a ciegas.
+
+PROCESO COMERCIAL DE TOOXS
+
+Etapa 1: Contacto y conversación inicial.
+El equipo comercial de Tooxs tiene una primera conversación para entender el contexto del cliente, el problema que quieren resolver y las expectativas generales.
+
+Etapa 2: Discovery.
+Reuniones de levantamiento de información para entender en profundidad el proceso, los sistemas involucrados, los datos disponibles y el impacto esperado.
+El discovery es la etapa más importante: aquí Tooxs determina si puede generar valor real para el cliente.
+
+Etapa 3: Análisis y diseño de la solución.
+Tooxs diseña la solución específica para el problema del cliente. No es una solución genérica: es una propuesta diseñada a partir del diagnóstico.
+
+Etapa 4: Propuesta económica.
+Se presenta la propuesta con el alcance, el cronograma y el precio del proyecto.
+
+Etapa 5: Implementación y acompañamiento.
+Tooxs implementa la solución en fases, con resultados medibles en cada etapa. El cliente participa activamente en la validación.
+
+Etapa 6: Entrega y soporte.
+Se entrega la solución con capacitación al equipo del cliente. Tooxs ofrece esquemas de soporte y evolución continua.
+
+TIEMPO TÍPICO DESDE EL PRIMER CONTACTO HASTA LA IMPLEMENTACIÓN
+
+Primer contacto a propuesta: 1-3 semanas (depende de la disponibilidad del cliente para el discovery).
+Implementación de la primera fase: 2-12 semanas (depende del alcance).
+
+CÓMO RESPONDE EL AGENTE ANTE PREGUNTAS DE PRECIO
+
+El agente nunca debe dar precios específicos, ni rangos que puedan malinterpretarse.
+
+Respuesta correcta cuando el prospecto pide precios:
+"El precio depende del alcance y el contexto específico de su proyecto. Antes de hablar de números, lo más útil es entender bien el problema que quieren resolver. ¿Le parece si lo conectamos con el equipo de Tooxs para tener esa conversación?"
+
+Si el prospecto insiste en un rango:
+"Entendemos que necesita tener una idea general antes de avanzar. Lo que puedo decirle es que Tooxs trabaja con pilotos acotados que permiten validar el retorno a un costo menor antes de escalar. Para darte una cifra honesta, necesitamos entender tu caso. ¿Agendamos 30 minutos con el equipo?"

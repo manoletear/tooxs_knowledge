@@ -1,0 +1,95 @@
+INTEGRACIONES – TOOXS
+
+PRINCIPIO GENERAL
+
+Tooxs no obliga al cliente a cambiar sus sistemas actuales.
+Las soluciones de Tooxs se integran con lo que el cliente ya tiene, respetando las inversiones tecnológicas existentes.
+
+El valor está en conectar sistemas que no se hablan, automatizar flujos que hoy son manuales, y hacer que la información fluya donde se necesita.
+
+INTEGRACIONES FRECUENTES
+
+ERP – SISTEMAS DE GESTIÓN EMPRESARIAL
+
+SAP S4/HANA.
+SAP Business One.
+Odoo.
+Microsoft Dynamics.
+Otros ERPs evaluados en discovery.
+
+Tooxs puede leer datos del ERP, escribir datos de vuelta al ERP, automatizar procesos que involucran el ERP, y construir capas de presentación o análisis sobre los datos del ERP.
+
+Las integraciones SAP, por su complejidad, siempre se evalúan en detalle durante la etapa de discovery. No se asumen ni se prometen sin diagnóstico previo.
+
+CRM – GESTIÓN DE RELACIONES CON CLIENTES
+
+Salesforce.
+HubSpot.
+Microsoft Dynamics CRM.
+Otros CRMs evaluados en discovery.
+
+Flujos frecuentes de integración con CRM:
+Sincronización de datos entre CRM y ERP.
+Automatización de acciones en el CRM según eventos en otros sistemas.
+Enriquecimiento de datos del CRM con información de otros sistemas.
+
+PLATAFORMAS DE PRODUCTIVIDAD
+
+Microsoft 365 (SharePoint, Teams, Power Automate, Outlook, OneDrive).
+Google Workspace (Gmail, Drive, Sheets, Calendar).
+
+TooxIA se integra especialmente bien con Microsoft 365, permitiendo que los colaboradores interactúen con el agente desde Teams o desde el entorno que ya usan.
+
+BASES DE DATOS Y ALMACENAMIENTO
+
+SQL Server, PostgreSQL, MySQL y otras bases de datos relacionales.
+Bases de datos NoSQL según el proyecto.
+Almacenamiento en Azure Blob, Google Cloud Storage, SharePoint, OneDrive.
+
+PLATAFORMAS CLOUD
+
+Microsoft Azure.
+Google Cloud Platform.
+
+Tooxs trabaja con ambas plataformas para despliegue de soluciones, almacenamiento de datos, procesamiento de IA y automatización.
+
+SISTEMAS LEGACY Y ESPECÍFICOS DE INDUSTRIA
+
+Tooxs tiene experiencia en integraciones con sistemas específicos de industria: sistemas de mantenimiento (CMMS), sistemas de gestión de planta, plataformas de licitaciones (Mercado Público) y otros.
+Las integraciones con sistemas legacy o específicos de cada industria se evalúan caso a caso.
+
+FORMATOS DE DATOS COMPATIBLES
+
+DocAI y otras soluciones de Tooxs trabajan con:
+PDF (incluyendo escaneados).
+Word (.docx, .doc).
+Excel (.xlsx, .xls, .csv).
+Imágenes (JPG, PNG, TIFF).
+Correo electrónico (integración con Outlook o Gmail).
+Texto plano y otros formatos según el proyecto.
+
+CÓMO SE DEFINE UNA INTEGRACIÓN
+
+Las integraciones no se prometen antes de entender el contexto.
+
+En la etapa de discovery, Tooxs:
+Mapea los sistemas actuales del cliente.
+Entiende qué datos necesitan fluir entre sistemas.
+Evalúa la factibilidad técnica y los accesos disponibles.
+Diseña la arquitectura de integración más adecuada.
+
+Después del discovery, la propuesta incluye el detalle de las integraciones y su costo.
+
+PREGUNTAS FRECUENTES SOBRE INTEGRACIONES
+
+¿Pueden integrarse con cualquier sistema?
+En principio sí, siempre que el sistema tenga APIs disponibles o permita acceso a sus datos. Los sistemas cerrados o sin APIs documentadas pueden requerir enfoques alternativos (como automatización de interfaz de usuario). Esto se evalúa en el discovery.
+
+¿La integración requiere intervención del equipo de TI del cliente?
+En la mayoría de los casos sí, al menos para gestionar los accesos y permisos correspondientes. El equipo de TI del cliente es un colaborador importante en los proyectos de Tooxs.
+
+¿Cuánto tiempo tarda una integración?
+Depende de la complejidad. Una integración simple (lectura de datos de una API estándar) puede estar lista en 1-2 semanas. Integraciones complejas con SAP o sistemas legacy pueden requerir 4-8 semanas o más.
+
+¿La integración funciona en tiempo real?
+Depende del caso de uso. Algunas integraciones operan en tiempo real (event-driven), otras en modo batch (procesamiento periódico). La elección depende del problema que se quiere resolver y de los recursos disponibles.

@@ -1,0 +1,270 @@
+TOOX S – DESCRIPCIÓN GENERAL Y SOLUCIONES
+
+Tooxs es una empresa especializada en transformación digital para empresas, combinando consultoría, tecnología, automatización e inteligencia artificial aplicada.
+
+Ayudamos a organizaciones medianas y grandes a mejorar su eficiencia operativa, calidad de control y toma de decisiones mediante soluciones tecnológicas diseñadas a medida.
+
+Nuestro enfoque es consultivo:
+
+Entendemos el problema real del negocio.
+
+Identificamos el mayor punto de impacto.
+
+Diseñamos la solución tecnológica adecuada.
+
+Implementamos y acompañamos la adopción.
+
+Trabajamos con múltiples industrias y áreas funcionales, siempre con foco en resultados medibles y uso real de la tecnología.
+
+PRINCIPALES LÍNEAS DE SOLUCIÓN
+
+DocAI: Automatización y gestión documental para reducir trabajo manual, errores y tiempos administrativos.
+
+IA aplicada y asistentes inteligentes: Uso práctico de IA para productividad, soporte, análisis y automatización de tareas.
+
+Informes de gestión multifuente: Integración de datos desde ERP, CRM, bases de datos y archivos para reporting confiable.
+
+Automatización de procesos y BPM: Rediseño y automatización de procesos críticos para reducir fricción y retrabajo.
+
+Cloud y productividad: Modernización tecnológica, colaboración y escalabilidad.
+
+Digital Factory: Desarrollo de software, integraciones y automatizaciones a medida.
+
+PREGUNTAS FRECUENTES COMERCIALES
+
+¿Qué es Tooxs?
+Empresa de transformación digital e inteligencia artificial aplicada.
+
+¿Pueden dar precios por chat?
+No. Los precios requieren diagnóstico previo.
+
+¿Hacen demos?
+Sí, previa coordinación.
+
+¿Con qué empresas trabajan?
+Empresas medianas y grandes.
+
+El pricing depende del alcance y contexto del cliente.
+
+Proceso típico:
+Discovery → Análisis → Propuesta → Implementación.
+
+Se pueden realizar pilotos.
+
+Tooxs evalúa seguridad, accesos y cumplimiento en cada proyecto.
+
+Integraciones con ERP, CRM, bases de datos y sistemas internos.
+
+SAP e integraciones complejas se evalúan en la etapa de discovery.
+
+El bot no solicita datos sensibles.
+
+CASOS DE USO FRECUENTES
+
+Automatización documental: facturas, contratos, aprobaciones y búsqueda rápida.
+
+Asistentes inteligentes: búsqueda de conocimiento y productividad con IA.
+
+Tableros y KPIs: consolidación de datos y reporting automático.
+
+Automatización de procesos: aprobaciones y reducción de retrabajo.
+
+Desarrollo a medida: integraciones y automatizaciones específicas.
+
+Incluye manejo de objeciones comunes y respuestas consultivas para ventas B2B.
+
+Integración con SAP, cloud, control de accesos y seguridad.
+
+Captura de nombre, empresa, correo y envío a equipo comercial.
+
+1. AGENTES INTELIGENTES TOOXS (TOOXIA)
+
+¿Qué es Tooxia?
+Tooxia es una solución de agentes inteligentes diseñada para apoyar procesos críticos de negocio, donde existen decisiones repetitivas, alto esfuerzo manual y dependencia excesiva de personas clave.
+
+No es un chatbot informativo.
+Es un asistente operativo conectado a procesos y sistemas reales.
+
+¿Qué problemas concretos resuelve?
+Tooxia es especialmente útil cuando:
+
+El mismo análisis se repite todos los días.
+
+La información está repartida entre sistemas, correos y documentos.
+
+Las decisiones dependen de criterio humano difícil de escalar.
+
+El crecimiento está generando pérdida de control.
+
+Beneficios clave para la empresa
+
+Menor dependencia de personas clave.
+El conocimiento se estructura y queda disponible para la organización.
+
+Decisiones más consistentes.
+Se aplican siempre los mismos criterios y reglas.
+
+Reducción de tiempos operativos.
+Menos revisión manual y menos reprocesos.
+
+Mayor control y trazabilidad.
+Cada acción y recomendación queda registrada.
+
+Escalabilidad sin aumentar dotación.
+El proceso crece sin necesidad de incorporar más personas.
+
+¿Tooxia reemplaza personas?
+No.
+Reduce carga operativa y error humano, pero la decisión final sigue siendo de la organización.
+
+El beneficio está en liberar tiempo y mejorar la calidad del trabajo, no en reemplazar equipos.
+
+¿Dónde se integra?
+
+Sistemas core.
+
+Plataformas documentales.
+
+Flujos operativos.
+
+Microsoft 365.
+
+El beneficio clave es que no obliga a cambiar la forma de trabajar de golpe.
+
+2. DOC AI – GESTIÓN DOCUMENTAL INTELIGENTE
+
+¿Qué es DocAI?
+DocAI es una solución para procesar, interpretar y validar documentos de forma inteligente, transformándolos en información útil para la operación y la toma de decisiones.
+
+Está pensada para contextos donde leer documentos manualmente es un cuello de botella.
+
+Problemas que aborda
+
+Alto volumen de documentos.
+
+Revisión manual lenta y propensa a error.
+
+Criterios de validación poco estandarizados.
+
+Riesgo operativo o regulatorio.
+
+Beneficios clave
+
+Reducción significativa de horas hombre.
+
+Menor error humano mediante validaciones consistentes.
+
+Mayor velocidad de respuesta.
+
+Mejor trazabilidad documental.
+
+Menor dependencia de conocimiento individual.
+
+¿Es solo OCR?
+No.
+El OCR es solo el punto de partida.
+
+El valor de DocAI está en interpretar contenido, aplicar reglas del negocio, detectar inconsistencias y generar resultados accionables.
+
+3. TOOXS MERCADO PÚBLICO
+
+Solución para ordenar y profesionalizar la gestión de licitaciones públicas, desde la identificación de oportunidades hasta la gestión posterior.
+
+No busca postular a más, sino postular mejor.
+
+Problemas que resuelve
+
+Exceso de oportunidades irrelevantes.
+
+Mucho tiempo leyendo bases extensas.
+
+Respuestas repetidas.
+
+Baja tasa de adjudicación.
+
+Ausencia de aprendizaje histórico.
+
+Beneficios
+
+Mejor foco estratégico.
+
+Reducción de horas improductivas.
+
+Mejora de la tasa de adjudicación.
+
+Mejor gestión del riesgo contractual.
+
+Aprendizaje acumulado.
+
+Áreas que obtienen mayor valor
+
+Gerencia general.
+
+Comercial.
+
+Operaciones.
+
+Finanzas.
+
+4. XPERTMAINT – MANTENIMIENTO INTELIGENTE (INDUSTRIA / MINERÍA)
+
+¿Qué es XpertMaint?
+Solución de apoyo inteligente a la toma de decisiones en mantenimiento, enfocada en capturar conocimiento experto y mejorar la confiabilidad operacional.
+
+Problemas que aborda
+
+Dependencia de técnicos expertos.
+
+Decisiones reactivas.
+
+Fallas no planificadas.
+
+Conocimiento crítico no documentado.
+
+Beneficios
+
+Menos fallas no planificadas.
+
+Mejor anticipación técnica.
+
+Mayor consistencia en decisiones.
+
+Transferencia de conocimiento.
+
+Mejor continuidad operacional.
+
+¿Requiere grandes inversiones?
+No necesariamente.
+Puede partir con información existente y escalar progresivamente.
+
+CRITERIOS TRANSVERSALES PARA EL AGENTE IA
+
+Antes de recomendar cualquier solución, el agente debe validar:
+
+Existe un problema real y recurrente.
+
+El impacto es operativo, financiero o estratégico.
+
+Existe disposición mínima a ordenar el proceso.
+
+Si uno de estos puntos no se cumple, el agente debe no recomendar la solución y explicarlo con claridad.
+
+MENSAJE QUE AUMENTA CREDIBILIDAD
+
+Cuando el agente decide no recomendar una solución, debe usar mensajes del tipo:
+
+"Por lo que me comentas, esta solución probablemente no te generaría el impacto esperado. En este caso, lo más razonable sería..."
+
+Esto posiciona a Tooxs como socio confiable, no como proveedor ansioso por vender.
+
+XPERTMAINT PARA MINERÍA
+
+XpertMaint es una solución especialmente aplicable a operaciones mineras, donde la continuidad operacional, la confiabilidad de equipos y la reducción de fallas no planificadas son críticas.
+
+En minería, XpertMaint apoya decisiones de mantenimiento en:
+- Equipos críticos de planta y faena.
+- Operaciones 24/7 con alto impacto financiero por detenciones.
+- Contextos con alta dependencia de conocimiento técnico experto.
+- Ambientes industriales complejos y de alta exigencia operacional.
+
+La solución permite capturar conocimiento experto en mantenimiento minero, mejorar la planificación y reducir riesgos asociados a fallas no planificadas.

@@ -1,0 +1,80 @@
+PREGUNTAS FRECUENTES GENERALES – TOOXS
+
+SOBRE LA EMPRESA
+
+¿Qué es Tooxs?
+Tooxs es una empresa especializada en transformación digital, automatización e inteligencia artificial aplicada para empresas medianas y grandes.
+Combinamos consultoría, tecnología y experiencia en procesos para mejorar eficiencia operativa, control y toma de decisiones.
+
+¿Dónde está ubicada Tooxs?
+Tooxs tiene sede en Santiago, Chile (Av. Apoquindo 5950, Las Condes), y trabaja con clientes en Chile y Latinoamérica, incluyendo Perú, Colombia, Costa Rica y Panamá.
+
+¿Cuántos años de experiencia tiene Tooxs?
+El equipo de Tooxs acumula más de 20 años de experiencia en distintas industrias. El fundador y CEO, Fernando Pérez Díaz, lideró previamente una empresa de tecnología adquirida por PwC.
+
+¿Con qué tipo de empresas trabaja Tooxs?
+Tooxs trabaja con empresas medianas y grandes, especialmente en minería, industria pesada, construcción, agroindustria, servicios B2B, banca, utilities, transporte y logística.
+
+SOBRE LAS SOLUCIONES
+
+¿Cuáles son las soluciones de Tooxs?
+Tooxs ofrece soluciones en cinco áreas principales:
+TooxIA: agentes inteligentes para procesos con decisiones repetitivas y dependencia de personas clave.
+DocAI: gestión documental inteligente para procesos con alto volumen de documentos.
+Analítica y reportes: consolidación de datos y dashboards para tomar decisiones en tiempo real.
+Automatización y BPM: reducción de fricción, retrabajo y procesos manuales.
+Digital Factory: desarrollo de software, integraciones y automatizaciones a medida.
+
+¿Tooxs tiene soluciones para minería?
+Sí. Tooxs tiene experiencia específica en minería e industria pesada. XpertMaint es una solución para apoyar decisiones de mantenimiento en operaciones mineras: reduce fallas no planificadas, captura conocimiento experto y mejora la confiabilidad operacional.
+
+¿Tooxs reemplaza los sistemas que ya tenemos (SAP, ERP, etc.)?
+No. Tooxs trabaja sobre los sistemas que el cliente ya tiene. La propuesta es complementar, integrar y automatizar, no reemplazar.
+
+¿Hacen demos de las soluciones?
+Sí, previa coordinación. Las demos se diseñan para mostrar cómo la solución aplica al contexto específico del cliente.
+
+¿Tooxia reemplaza personas?
+No. Reduce carga operativa y error humano, pero la decisión final sigue siendo de la organización. El beneficio está en liberar tiempo y mejorar la calidad del trabajo.
+
+¿DocAI es solo OCR?
+No. El OCR es solo el punto de partida. DocAI interpreta el contenido, aplica reglas del negocio, detecta inconsistencias y genera resultados accionables.
+
+SOBRE EL PROCESO COMERCIAL
+
+¿Cómo es el proceso de trabajo con Tooxs?
+El proceso típico es: Discovery → Análisis → Propuesta → Implementación.
+Primero entendemos el problema real, luego identificamos el mayor punto de impacto, diseñamos la solución y la implementamos con acompañamiento.
+
+¿Se pueden hacer pilotos?
+Sí. Tooxs trabaja con pilotos acotados para validar el retorno antes de escalar. Es una forma de reducir el riesgo de la inversión.
+
+¿Cuánto cuesta trabajar con Tooxs?
+El pricing depende del alcance, la complejidad y el contexto del cliente. No hay tarifas fijas. El proceso empieza con un diagnóstico para entender el problema antes de definir una propuesta económica.
+
+¿Dan precios por este chat?
+No. Dar un precio sin entender el contexto específico del cliente sería impreciso. Lo correcto es coordinar una conversación con el equipo comercial.
+
+¿En cuánto tiempo se ven resultados?
+Depende del proyecto. Automatizaciones simples pueden estar en producción en 2-4 semanas. Proyectos más complejos se trabajan en fases, con resultados medibles desde la primera etapa. En general, el primer hito visible ocurre entre 4 y 12 semanas.
+
+SOBRE SEGURIDAD Y DATOS
+
+¿Cómo maneja Tooxs la seguridad de los datos del cliente?
+Tooxs evalúa seguridad, accesos y cumplimiento en cada proyecto desde el inicio. Los datos del cliente son del cliente. Trabajamos dentro de la infraestructura del cliente cuando los requisitos de seguridad así lo exigen.
+
+¿El agente de chat solicita información sensible?
+No. El agente no solicita contraseñas, datos bancarios ni información confidencial del negocio.
+
+SOBRE INTEGRACIONES
+
+¿Con qué sistemas se integra Tooxs?
+Tooxs se integra con SAP S4/HANA, SAP Business One, Odoo, Salesforce, HubSpot, Microsoft 365, bases de datos internas y otros sistemas del cliente. Las integraciones complejas se evalúan en la etapa de discovery.
+
+¿Funciona con SAP?
+Sí. Tooxs tiene experiencia en integración con SAP S4/HANA y SAP Business One.
+
+SOBRE CONTACTO
+
+¿Cómo puedo contactar al equipo de Tooxs?
+Puede dejar sus datos en esta conversación y el equipo comercial se pondrá en contacto en menos de 24 horas hábiles. También puede visitar tooxs.com.

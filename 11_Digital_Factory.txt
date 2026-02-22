@@ -1,0 +1,86 @@
+DIGITAL FACTORY – TOOXS
+
+DESCRIPCIÓN DE LA SOLUCIÓN
+
+Digital Factory es el área de Tooxs que desarrolla software, integraciones y automatizaciones a medida.
+
+Cuando la solución que el cliente necesita no existe en el mercado, o cuando los sistemas existentes necesitan conectarse de una forma que ningún proveedor estándar cubre, Tooxs la construye.
+
+No es una fábrica de software genérica. Es desarrollo con foco en problemas reales del negocio y entrega de resultados medibles.
+
+¿QUÉ CONSTRUYE TOOXS EN DIGITAL FACTORY?
+
+Aplicaciones y herramientas a medida.
+Software diseñado específicamente para el proceso o la necesidad del cliente, cuando las soluciones de mercado no se ajustan al negocio.
+
+Integraciones entre sistemas.
+Conectores, APIs y pipelines de datos que permiten que los sistemas del cliente se comuniquen entre sí.
+SAP con CRM. ERP con plataforma de e-commerce. Sistema interno con proveedor externo.
+
+Automatizaciones específicas.
+Scripts, bots y flujos automáticos para tareas que no tienen solución off-the-shelf pero que generan alto impacto si se automatizan.
+
+Módulos y extensiones sobre plataformas existentes.
+Cuando el cliente ya tiene un ERP, CRM o plataforma, pero necesita funcionalidades que el sistema estándar no tiene.
+
+IT Staffing y equipos aumentados.
+Para clientes que necesitan incorporar capacidades técnicas de forma temporal o permanente, Tooxs provee profesionales especializados que trabajan integrados al equipo del cliente.
+
+Prototipado rápido de soluciones innovadoras.
+Cuando el cliente quiere validar una idea antes de invertir en un desarrollo completo, Tooxs construye prototipos funcionales en tiempos cortos.
+
+CASOS DE USO FRECUENTES
+
+Integración ERP-CRM.
+El equipo comercial cierra un negocio en el CRM y la información fluye automáticamente al ERP para generar la orden de servicio, sin digitación manual.
+
+Portal de clientes o proveedores.
+Una empresa necesita que sus clientes o proveedores puedan ingresar datos, consultar estados o gestionar solicitudes a través de un portal propio, integrado con sus sistemas internos.
+
+Herramienta de gestión interna.
+Un proceso interno que hoy se maneja en Excel o correo se convierte en una aplicación web simple, con usuarios, roles y trazabilidad.
+
+Automatización de reportes y envíos.
+El sistema extrae datos del ERP, genera el informe en el formato requerido y lo envía automáticamente al destinatario correcto a la hora definida.
+
+Conector con sistema de gobierno o regulador.
+Empresas que deben reportar a organismos externos (SII, CMF, Mercado Público) automatizan la generación y envío de información requerida.
+
+API para integrar con terceros.
+El cliente necesita exponer datos o funcionalidades de sus sistemas a socios, clientes o plataformas externas de forma controlada y segura.
+
+ENFOQUE DE TRABAJO
+
+Tooxs trabaja con metodologías ágiles, entregando funcionalidades en ciclos cortos y validando con el cliente en cada etapa.
+
+El cliente participa activamente: no se construye en silencio durante meses para mostrar el resultado final.
+
+Los proyectos de Digital Factory parten siempre desde el problema del negocio, no desde la tecnología.
+
+CRITERIOS DE RECOMENDACIÓN
+
+Recomendar Digital Factory cuando:
+La necesidad del cliente no tiene solución de mercado que se ajuste bien.
+Existen sistemas que deben integrarse y no tienen conectores estándar disponibles.
+Hay procesos críticos que se gestionan con herramientas inadecuadas (Excel, correo, WhatsApp).
+El cliente quiere construir una capacidad digital diferenciadora.
+Se necesita capacidad técnica adicional de forma temporal o permanente.
+
+No recomendar cuando:
+Existe una solución de mercado que cubre bien la necesidad del cliente.
+El problema no justifica el costo y tiempo de un desarrollo a medida.
+El cliente no está dispuesto a participar activamente en el proceso de definición y validación.
+
+PREGUNTAS FRECUENTES
+
+¿Cuánto tiempo tarda un proyecto de Digital Factory?
+Depende del alcance. Un módulo o integración simple puede entregarse en 3-6 semanas. Proyectos más complejos se planifican en fases.
+
+¿Con qué tecnologías trabaja Tooxs?
+Tooxs trabaja con las tecnologías más adecuadas para cada problema: Microsoft Azure, Google Cloud, Python, Node.js, APIs REST, entre otras. La elección tecnológica sigue a la necesidad del negocio.
+
+¿El cliente necesita tener equipo técnico propio?
+No es obligatorio. Tooxs puede gestionar el proyecto de forma integral. Si el cliente tiene equipo técnico, Tooxs trabaja de forma colaborativa con él.
+
+¿Qué pasa con el mantenimiento del software después de la entrega?
+Tooxs ofrece esquemas de soporte y mantenimiento continuo para los desarrollos entregados.

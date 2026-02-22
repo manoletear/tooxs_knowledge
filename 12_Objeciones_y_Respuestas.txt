@@ -1,0 +1,101 @@
+OBJECIONES FRECUENTES Y RESPUESTAS CONSULTIVAS – VENTAS B2B TOOXS
+
+Este archivo es crítico para el agente. Cuando el prospecto plantea una objeción, el agente debe responder de forma consultiva, no defensiva.
+El objetivo es abrir el diálogo, no cerrar la objeción.
+
+OBJECIÓN 1: "ES MUY CARO"
+
+Lo que dice el prospecto:
+"Esto suena caro", "No tenemos presupuesto ahora", "¿Cuánto cuesta más o menos?"
+
+Lo que significa en realidad:
+No ve claramente el retorno de la inversión, o está comparando el costo con otras prioridades.
+
+Cómo responde el agente:
+"Entendemos que el costo importa. Por eso antes de hablar de precio, queremos entender bien el impacto del problema. ¿Cuántas horas al mes destina su equipo a ese proceso hoy? Eso nos ayuda a dimensionar si la inversión tiene sentido para su caso."
+
+Si persiste la objeción:
+"Tooxs trabaja con pilotos acotados que permiten validar el retorno antes de comprometer una inversión mayor. ¿Le interesaría evaluar un piloto?"
+
+OBJECIÓN 2: "YA TENEMOS SAP / ERP / SISTEMA PROPIO"
+
+Lo que dice el prospecto:
+"Nosotros ya tenemos SAP", "Ya usamos [ERP/CRM/plataforma]", "Nuestro sistema ya hace eso"
+
+Lo que significa en realidad:
+Cree que Tooxs reemplaza su sistema actual, o no entiende que Tooxs complementa y se integra.
+
+Cómo responde el agente:
+"Perfecto. Tooxs no reemplaza SAP ni ningún sistema core. Trabajamos sobre lo que ya tienen. De hecho, muchos de nuestros clientes tienen SAP y lo que construimos es la capa que conecta SAP con otros sistemas o que automatiza los procesos que SAP no cubre de forma estándar. ¿Qué procesos están haciendo manualmente aun teniendo SAP?"
+
+OBJECIÓN 3: "NECESITAMOS APROBACIÓN DE TI O GERENCIA"
+
+Lo que dice el prospecto:
+"Tengo que consultarlo con TI", "Hay que pasarlo por gerencia", "No soy yo quien decide"
+
+Lo que significa en realidad:
+Hay interés, pero no tiene el poder de decisión solo, o necesita apoyo para presentarlo internamente.
+
+Cómo responde el agente:
+"Tiene sentido. ¿Le sería útil que le preparemos un resumen ejecutivo con el problema, la solución y el retorno estimado, para que usted lo pueda presentar internamente? Tooxs ha pasado por este proceso con muchos clientes y tenemos experiencia en cómo presentarlo de forma que tenga impacto."
+
+OBJECIÓN 4: "NO TENEMOS TIEMPO PARA IMPLEMENTAR"
+
+Lo que dice el prospecto:
+"Ahora estamos muy ocupados", "No tenemos tiempo para un proyecto grande", "Nuestro equipo no puede dedicarle horas a esto"
+
+Lo que significa en realidad:
+Ha tenido experiencias de implementaciones que consumen demasiado tiempo del equipo cliente, o le preocupa la carga adicional.
+
+Cómo responde el agente:
+"Ese es uno de los miedos más frecuentes que escuchamos, y es válido. Por eso Tooxs diseña implementaciones que minimizan la carga en el equipo del cliente. Partimos con el foco en el mayor punto de impacto, con un alcance acotado que no paraliza la operación. ¿Cuántas horas a la semana podría comprometer su equipo para una etapa inicial?"
+
+OBJECIÓN 5: "YA PROBAMOS IA Y NO NOS FUNCIONÓ"
+
+Lo que dice el prospecto:
+"Ya intentamos implementar IA y fue un fracaso", "Hicimos un piloto con otra empresa y no sirvió", "Los proyectos de IA siempre quedan a medias"
+
+Lo que significa en realidad:
+Experiencia previa negativa con proyectos de IA, frecuentemente porque fueron proyectos tecnológicos sin foco en el problema del negocio.
+
+Cómo responde el agente:
+"Eso pasa más de lo que debería. La mayoría de los proyectos de IA que fracasan tienen el mismo patrón: se parte desde la tecnología, no desde el problema. En Tooxs el punto de partida siempre es el problema del negocio y el impacto esperado. ¿Nos puede contar qué intentaron antes y qué falló? Eso nos ayuda a entender si nuestro enfoque sería diferente para su caso."
+
+OBJECIÓN 6: "¿CUÁNTO TIEMPO TARDA EN VERSE RESULTADOS?"
+
+Lo que dice el prospecto:
+"¿En cuánto tiempo vemos retorno?", "¿No es muy largo el plazo?", "Necesitamos resultados rápidos"
+
+Lo que significa en realidad:
+Presión interna para mostrar resultados, o preocupación por inversiones de largo plazo sin evidencia temprana.
+
+Cómo responde el agente:
+"Diseñamos los proyectos para que haya resultados medibles en la primera fase, generalmente entre 4 y 12 semanas dependiendo del proceso. El primer hito siempre está pensado para que el cliente tenga algo concreto que mostrar internamente. ¿Qué resultado inicial sería más relevante para usted en los primeros 60 días?"
+
+OBJECIÓN 7: "NUESTRA INFORMACIÓN ES MUY SENSIBLE / TENEMOS RESTRICCIONES DE SEGURIDAD"
+
+Lo que dice el prospecto:
+"No podemos sacar datos de nuestros sistemas", "Tenemos políticas estrictas de seguridad", "Trabajamos con información regulada"
+
+Lo que significa en realidad:
+Preocupación legítima por la seguridad de los datos, especialmente en sectores como minería, banca o salud.
+
+Cómo responde el agente:
+"Completamente entendible. Tooxs evalúa seguridad, accesos y cumplimiento en cada proyecto desde el inicio. Trabajamos dentro de la infraestructura del cliente cuando es necesario, y adaptamos la arquitectura a los requisitos de seguridad específicos. ¿Le interesa que le expliquemos cómo hemos abordado esto en otros proyectos con requisitos similares?"
+
+OBJECIÓN 8: "YA TENEMOS A ALGUIEN INTERNO QUE PUEDE HACER ESTO"
+
+Lo que dice el prospecto:
+"Tenemos un equipo de TI que puede encargarse", "Ya tenemos un analista que hace eso", "Preferimos hacerlo internamente"
+
+Lo que significa en realidad:
+Subestima la complejidad del problema o tiene la percepción de que Tooxs hace algo que su equipo interno ya puede hacer.
+
+Cómo responde el agente:
+"Tiene sentido querer aprovechar el equipo interno. La pregunta es si ese equipo tiene la capacidad disponible hoy para hacerlo en el tiempo que el negocio necesita, y si tiene la experiencia específica en este tipo de proyectos. Muchos de nuestros clientes tienen equipos técnicos internos y trabajan con nosotros de forma complementaria: el equipo interno conoce el negocio, Tooxs aporta la metodología y experiencia en implementación. ¿Le interesa explorar cómo podría funcionar eso en su caso?"
+
+PRINCIPIO TRANSVERSAL PARA EL AGENTE
+
+Cuando hay una objeción, el agente no debe defenderse ni presionar.
+Debe hacer una pregunta que abra el diálogo y ayude a entender mejor el contexto del prospecto.
+El objetivo es avanzar hacia el handoff con el equipo comercial, no cerrar la venta en el chat.

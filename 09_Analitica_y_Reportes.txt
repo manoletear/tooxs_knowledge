@@ -1,0 +1,95 @@
+ANALÍTICA Y REPORTES DE GESTIÓN – TOOXS
+
+DESCRIPCIÓN DE LA SOLUCIÓN
+
+Tooxs diseña e implementa soluciones de analítica avanzada y reportes de gestión para organizaciones que necesitan consolidar datos de múltiples fuentes y tomar decisiones basadas en información confiable y oportuna.
+
+El problema no es la falta de datos. El problema es que los datos están dispersos, son inconsistentes o no están disponibles cuando se necesitan.
+
+¿QUÉ PROBLEMAS RESUELVE?
+
+Los datos están en distintos sistemas que no se hablan entre sí.
+ERP, CRM, Excel, bases de datos, sistemas locales, archivos compartidos: cada área tiene su verdad y nadie tiene el cuadro completo.
+
+Los reportes se construyen manualmente y demoran días.
+Cada cierre mensual requiere horas de trabajo del equipo para consolidar y formatear información.
+
+Los KPIs cambian según quién los calcula.
+Finanzas tiene un número, comercial tiene otro. La reunión empieza con 30 minutos de discusión sobre cuál dato es el correcto.
+
+La gerencia no tiene visibilidad en tiempo real.
+Las decisiones se toman con información de la semana o el mes anterior.
+
+SOLUCIONES QUE OFRECE TOOXS EN ANALÍTICA
+
+Tableros ejecutivos y dashboards operativos.
+Visualizaciones claras y accionables para gerencia, jefaturas y operaciones.
+Cada área ve lo que necesita, con los datos que le corresponden.
+
+Consolidación de datos multifuente.
+Integración de ERP, CRM, Excel, bases de datos, sistemas legacy y otras fuentes en una sola capa de datos confiable.
+El dato único y validado elimina la discusión sobre cuál número es el correcto.
+
+Reporting automático y periódico.
+Los informes de gestión se generan automáticamente según los ciclos del negocio (diario, semanal, mensual).
+El equipo deja de construir el reporte y empieza a analizarlo.
+
+KPIs por área y por nivel organizacional.
+Diseño conjunto con el cliente de los indicadores clave: financiero, comercial, operacional, RRHH, logística.
+Alertas automáticas cuando un KPI se desvía del rango esperado.
+
+Analítica predictiva.
+Modelos que anticipan tendencias: demanda, rotación, riesgo de crédito, consumo, fallas de equipos.
+La organización pasa de reaccionar a anticipar.
+
+CASOS DE USO FRECUENTES
+
+Cierre mensual automatizado.
+El CFO recibe el cierre consolidado el primer día hábil del mes, sin trabajo manual del equipo.
+
+Control de gestión comercial.
+El gerente comercial ve en tiempo real: pipeline, conversión, ticket promedio y cumplimiento de cuota por vendedor.
+
+Seguimiento operacional en planta.
+Monitoreo en tiempo real de producción, tiempos de ciclo, detenciones y eficiencia global de equipo.
+
+Control de proyectos.
+Avance físico vs. financiero de múltiples proyectos simultáneos, con alertas de desviación.
+
+Consolidación de filiales o unidades de negocio.
+Grupos empresariales consolidan sus cifras en un solo tablero comparativo.
+
+TECNOLOGÍA
+
+Power BI y Microsoft Azure.
+Google Cloud Platform.
+Integración directa con SAP, Salesforce, HubSpot, Odoo y otras plataformas.
+Pipelines de datos ETL diseñados a medida.
+
+CRITERIOS DE RECOMENDACIÓN
+
+Recomendar analítica y reportes cuando:
+Existe más de una fuente de datos relevante para la gestión.
+El reporting actual es manual y toma más de 4 horas por ciclo.
+Los KPIs del negocio no están definidos o no se miden consistentemente.
+La gerencia toma decisiones sin datos en tiempo real.
+Hay discrepancias frecuentes en los números entre áreas.
+
+No recomendar cuando:
+La empresa tiene solo una fuente de datos simple.
+El volumen de operaciones no justifica dashboards.
+No existe disposición a definir y estandarizar los KPIs del negocio.
+
+PREGUNTAS FRECUENTES
+
+¿Cuánto tiempo tarda en implementarse un tablero?
+Depende de la complejidad y las fuentes. Un tablero inicial puede estar en producción en 4-8 semanas.
+
+¿Qué pasa si los datos de origen son de mala calidad?
+Tooxs incluye una etapa de diagnóstico y limpieza de datos. Un tablero con datos malos es peor que no tener tablero.
+
+¿Funciona con SAP?
+Sí. Tooxs tiene experiencia en integración con SAP S4/HANA y SAP Business One. Las integraciones complejas se evalúan en discovery.
+
+¿Se puede acceder desde el celular?
+Sí. Las soluciones están disponibles en web y móvil para usuarios con los permisos correspondientes.

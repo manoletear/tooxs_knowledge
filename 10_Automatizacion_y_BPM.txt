@@ -1,0 +1,98 @@
+AUTOMATIZACIÓN DE PROCESOS Y BPM – TOOXS
+
+DESCRIPCIÓN DE LA SOLUCIÓN
+
+Tooxs rediseña y automatiza procesos críticos del negocio para reducir fricción, retrabajo y dependencia de trabajo manual.
+
+La automatización no es solo tecnología. Es primero entender el proceso, identificar los cuellos de botella reales, y luego aplicar la solución correcta.
+
+¿QUÉ PROBLEMAS RESUELVE?
+
+Los procesos dependen de personas específicas para avanzar.
+Si la persona no está disponible, el proceso se detiene. El negocio funciona, pero frágil.
+
+Hay demasiado retrabajo y correcciones.
+Los errores del paso anterior se resuelven en el paso siguiente, generando ciclos de corrección que consumen tiempo y generan frustración.
+
+Los procesos de aprobación son lentos y sin trazabilidad.
+Las aprobaciones viajan por correo, WhatsApp o presencialmente. No hay registro, no hay tiempos, no hay visibilidad.
+
+El crecimiento no escala con los procesos actuales.
+Lo que funcionaba con 50 clientes no funciona con 500. El equipo crece, pero los procesos no.
+
+SOLUCIONES QUE OFRECE TOOXS EN AUTOMATIZACIÓN
+
+Automatización de flujos de aprobación.
+Solicitudes de gasto, órdenes de compra, aprobaciones contractuales, solicitudes de RRHH: todas en un flujo digital con responsables, plazos y escalamiento automático.
+
+Automatización robótica de procesos (RPA).
+Tareas repetitivas que hoy hace una persona en un sistema (copiar datos, generar reportes, enviar notificaciones) se automatizan con bots que operan 24/7 sin error.
+
+Integración entre sistemas.
+Cuando dos sistemas no se hablan, los datos viajan manualmente entre ellos. Tooxs diseña los conectores y flujos de integración para que la información fluya automáticamente.
+
+Rediseño y mapeo de procesos (BPM).
+Antes de automatizar, Tooxs mapea el proceso actual, identifica redundancias y propone una versión optimizada.
+Automatizar un proceso mal diseñado solo hace que el error ocurra más rápido.
+
+Automatización de notificaciones y seguimiento.
+El sistema avisa automáticamente cuando algo está pendiente, vencido o requiere atención. Las personas dejan de hacer seguimiento manual.
+
+CASOS DE USO FRECUENTES
+
+Proceso de compras.
+Solicitud → Aprobación → Orden de Compra → Recepción → Factura → Pago.
+Cada etapa tiene un responsable, un plazo y un escalamiento si no se completa a tiempo.
+
+Onboarding de clientes o proveedores.
+La empresa recibe solicitudes de nuevos clientes o proveedores y los flujos de validación, documentación y aprobación se ejecutan automáticamente.
+
+Gestión de contratos.
+Creación → Revisión legal → Aprobación → Firma → Archivo. Sin correos de idas y vueltas.
+
+Proceso de facturación y cobranza.
+Emisión automática de facturas según hitos del proyecto. Seguimiento automático de vencimientos y envío de recordatorios.
+
+Gestión de incidencias operativas.
+Las incidencias se registran, se asignan automáticamente al responsable correcto y se escalan si no se resuelven en el tiempo definido.
+
+¿QUÉ TECNOLOGÍAS USA TOOXS?
+
+Microsoft Power Automate para flujos integrados con Microsoft 365.
+Herramientas de RPA para automatización de tareas en sistemas legacy.
+Conectores e integraciones a medida con SAP, ERP, CRM y otros sistemas.
+Plataformas BPM para modelado y orquestación de procesos complejos.
+
+CRITERIOS DE RECOMENDACIÓN
+
+Recomendar automatización y BPM cuando:
+Existe un proceso repetitivo que ocurre con alta frecuencia.
+El proceso involucra múltiples personas o sistemas.
+Hay errores frecuentes o retrabajo en el proceso actual.
+Los tiempos de ciclo son inaceptablemente largos.
+El proceso tiene reglas claras y conocidas (aunque no documentadas).
+
+No recomendar cuando:
+El proceso ocurre de forma esporádica o irregular.
+Las reglas del proceso cambian constantemente y no están estabilizadas.
+El volumen o impacto no justifica la inversión en automatización.
+La organización no está dispuesta a definir y documentar el proceso.
+
+MENSAJE CLAVE PARA EL AGENTE
+
+Tooxs no automatiza procesos que aún no están entendidos.
+El valor de Tooxs está en el enfoque consultivo: primero entendemos el proceso real, identificamos el mayor punto de dolor, y solo entonces aplicamos la tecnología correcta.
+
+PREGUNTAS FRECUENTES
+
+¿Necesitamos cambiar nuestros sistemas actuales para automatizar?
+No necesariamente. En muchos casos, Tooxs diseña la automatización sobre los sistemas que ya tiene el cliente.
+
+¿Cuánto tiempo tarda en implementarse?
+Depende del proceso y la complejidad. Automatizaciones simples pueden estar en producción en 2-4 semanas. Procesos complejos requieren más tiempo de diseño y prueba.
+
+¿Qué pasa si el proceso cambia después de la implementación?
+Las automatizaciones de Tooxs se diseñan con flexibilidad para ajustes. Los cambios se gestionan en etapas de mantenimiento o evolución de la solución.
+
+¿Se puede automatizar un proceso que usa SAP?
+Sí. Tooxs tiene experiencia en automatizaciones sobre SAP S4/HANA y SAP Business One.

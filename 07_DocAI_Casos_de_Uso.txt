@@ -1,0 +1,124 @@
+DOC AI – CASOS DE USO CONCRETOS
+
+DocAI es la solución de Tooxs para procesar, interpretar y validar documentos de forma inteligente.
+No es OCR tradicional. Interpreta el contenido, aplica reglas del negocio y genera resultados accionables.
+
+CASO DE USO 1: AUTOMATIZACIÓN DE FACTURAS DE PROVEEDORES
+
+Problema típico:
+El área de finanzas recibe cientos de facturas al mes por correo, en PDF o escaneadas.
+El equipo las ingresa manualmente al ERP, lo que genera errores, demoras y cuellos de botella.
+
+Cómo resuelve DocAI:
+DocAI lee las facturas en cualquier formato (PDF, imagen, correo adjunto), extrae automáticamente los datos clave: número de factura, RUT, monto, fecha, ítem.
+Valida contra órdenes de compra en SAP o el ERP del cliente.
+Registra las facturas aprobadas directamente en el sistema.
+
+Resultado típico:
+Reducción del 80% en tiempo de ingreso manual.
+Eliminación de errores de digitación.
+Trazabilidad completa de cada documento procesado.
+
+¿Para qué tipo de empresa aplica?
+Empresas que procesan más de 200 facturas al mes o que tienen proveedores con formatos variados.
+
+CASO DE USO 2: REVISIÓN DE CONTRATOS Y DOCUMENTOS LEGALES
+
+Problema típico:
+El área legal o de contratos recibe contratos de clientes, proveedores o licitaciones.
+Revisar cláusulas clave toma horas por documento, y el riesgo de omitir condiciones críticas es alto.
+
+Cómo resuelve DocAI:
+DocAI lee los contratos, identifica cláusulas relevantes (plazo, penalizaciones, condiciones de pago, condiciones de término).
+Compara contra plantillas o estándares internos.
+Genera un resumen ejecutivo con alertas para las cláusulas que requieren revisión humana.
+
+Resultado típico:
+Reducción del tiempo de revisión de días a minutos por documento.
+Mayor consistencia en criterios de revisión.
+Menor riesgo legal por omisión.
+
+¿Para qué tipo de empresa aplica?
+Empresas con alto volumen contractual: constructoras, empresas de servicios, minería, telecomunicaciones.
+
+CASO DE USO 3: PROCESOS DE APROBACIÓN DOCUMENTAL
+
+Problema típico:
+Aprobaciones de órdenes de compra, solicitudes de gasto o documentos internos pasan por correo entre personas.
+No hay trazabilidad, los documentos se pierden o quedan sin respuesta.
+
+Cómo resuelve DocAI:
+DocAI extrae el documento, identifica el tipo y el responsable de aprobación.
+Lo enruta automáticamente al flujo correspondiente.
+Registra cada acción (quién aprobó, cuándo, con qué comentario).
+
+Resultado típico:
+Aprobaciones que tardaban 3-5 días se resuelven en horas.
+Trazabilidad completa del ciclo de aprobación.
+Menos correos y mensajes de seguimiento.
+
+CASO DE USO 4: GESTIÓN DOCUMENTAL EN RECURSOS HUMANOS
+
+Problema típico:
+RRHH recibe contratos de trabajo, liquidaciones, certificados médicos, finiquitos y documentos de incorporación.
+Cada uno requiere validación, registro y archivo.
+
+Cómo resuelve DocAI:
+DocAI procesa y clasifica los documentos de cada colaborador.
+Valida que contengan los campos obligatorios según normativa.
+Los integra al sistema de RRHH o al expediente digital del empleado.
+
+Resultado típico:
+Onboarding documental más rápido y sin errores.
+Cumplimiento normativo más fácil de auditar.
+
+CASO DE USO 5: DOCUMENTACIÓN REGULATORIA Y DE CUMPLIMIENTO
+
+Problema típico:
+Empresas en sectores regulados (minería, financiero, salud, construcción) deben gestionar permisos, certificados, informes de cumplimiento y normativas.
+El volumen crece constantemente y la revisión manual genera riesgo.
+
+Cómo resuelve DocAI:
+DocAI identifica el tipo de documento regulatorio.
+Valida vencimientos, campos obligatorios y coherencia con versiones anteriores.
+Genera alertas automáticas cuando un documento está próximo a vencer o no cumple con los criterios.
+
+Resultado típico:
+Reducción del riesgo regulatorio y de multas.
+Mayor control del ciclo de vida documental.
+
+CASO DE USO 6: PROCESAMIENTO DE BASES DE LICITACIONES
+
+Problema típico:
+Empresas que participan en licitaciones públicas reciben bases extensas (100-300 páginas).
+Leerlas completamente toma días y el riesgo de perder requisitos clave es alto.
+
+Cómo resuelve DocAI:
+DocAI procesa el documento completo, extrae los requisitos técnicos, plazos, condiciones de evaluación y criterios de adjudicación.
+Genera un resumen ejecutivo y una lista de tareas pendientes para la postulación.
+
+Resultado típico:
+Tiempo de análisis de bases: de días a menos de una hora.
+Menor riesgo de exclusión por requisitos no cumplidos.
+
+PREGUNTAS FRECUENTES SOBRE DOCAI
+
+¿DocAI funciona con documentos escaneados?
+Sí. DocAI combina OCR de alta precisión con modelos de interpretación que permiten procesar documentos físicos digitalizados.
+
+¿Con qué sistemas se integra?
+SAP S4/HANA, SAP Business One, Odoo, Microsoft 365, bases de datos internas y otros ERP.
+Las integraciones específicas se evalúan en la etapa de discovery.
+
+¿Puede manejar múltiples idiomas o formatos?
+Sí. DocAI procesa documentos en español, inglés y otros idiomas, en formatos PDF, Word, Excel e imágenes.
+
+¿Requiere configuración por tipo de documento?
+Sí. En la etapa de implementación se definen las reglas de extracción y validación para cada tipo de documento del cliente.
+
+¿Qué pasa con los documentos que no puede interpretar?
+DocAI los marca para revisión humana y los escala al responsable correspondiente. Nunca omite documentos silenciosamente.
+
+¿Cuándo NO recomendar DocAI?
+No recomendar DocAI cuando el volumen documental es bajo o esporádico, los documentos no requieren interpretación ni validación, o el impacto del error es bajo.
+En esos casos, la automatización documental no aporta valor relevante.

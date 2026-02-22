@@ -1,0 +1,129 @@
+TOOXIA – CASOS DE USO CONCRETOS
+
+TooxIA es la solución de agentes inteligentes de Tooxs.
+No es un chatbot informativo. Es un asistente operativo conectado a procesos y sistemas reales.
+Trabaja donde existen decisiones repetitivas, alto esfuerzo manual y dependencia de personas clave.
+
+CASO DE USO 1: ASISTENTE DE SOPORTE INTERNO PARA OPERACIONES
+
+Problema típico:
+El mismo equipo recibe las mismas preguntas todos los días: ¿cuál es el procedimiento para X?, ¿dónde está el documento Y?, ¿quién aprueba Z?
+El conocimiento está en la cabeza de 2-3 personas que ya no dan abasto.
+
+Cómo resuelve TooxIA:
+TooxIA centraliza el conocimiento operativo de la empresa (procedimientos, políticas, instrucciones, documentos).
+Los colaboradores preguntan en lenguaje natural y reciben respuestas precisas con referencias a las fuentes.
+El agente aprende de nuevas consultas y actualiza su base de conocimiento.
+
+Resultado típico:
+Reducción del 60-70% en consultas repetitivas a personas clave.
+Onboarding más rápido de nuevos colaboradores.
+Conocimiento institucional disponible 24/7.
+
+¿Para qué tipo de empresa aplica?
+Empresas con alta rotación de personal, operaciones distribuidas o conocimiento concentrado en pocas personas.
+
+CASO DE USO 2: ASISTENTE DE VENTAS Y PREVENTA B2B
+
+Problema típico:
+El equipo comercial pierde tiempo buscando fichas de producto, casos de éxito, respuestas a objeciones frecuentes o comparativas con la competencia.
+Los nuevos vendedores tardan semanas en estar operativos.
+
+Cómo resuelve TooxIA:
+TooxIA actúa como copiloto del vendedor: responde preguntas sobre productos, argumentarios, precios referenciales y objeciones comunes.
+Sugiere el siguiente paso en el proceso comercial según el estado del prospecto.
+Puede integrarse con el CRM para acceder al historial del cliente.
+
+Resultado típico:
+Menor tiempo de ramping de nuevos vendedores (semanas → días).
+Mayor consistencia en el discurso comercial.
+Más tiempo del vendedor en actividades de alto valor.
+
+¿Para qué tipo de empresa aplica?
+Empresas con catálogos complejos, ciclos de venta largos o equipos comerciales distribuidos.
+
+CASO DE USO 3: GESTIÓN DEL CONOCIMIENTO ORGANIZACIONAL
+
+Problema típico:
+El conocimiento crítico de la empresa está disperso: carpetas de red, correos, PDFs sin índice, presentaciones desactualizadas.
+Encontrar información útil tarda demasiado o depende de preguntar a alguien.
+
+Cómo resuelve TooxIA:
+TooxIA indexa y estructura el conocimiento de la organización (documentos, manuales, reportes, correos relevantes).
+Permite búsqueda semántica: el usuario pregunta con sus palabras, no con palabras clave exactas.
+El agente responde con el fragmento relevante y la fuente.
+
+Resultado típico:
+Reducción del tiempo de búsqueda de información de minutos/horas a segundos.
+Menor dependencia de personas específicas para recordar dónde está cada cosa.
+Mejor aprovechamiento del conocimiento ya existente.
+
+CASO DE USO 4: ANÁLISIS Y CONSULTA DE DATOS OPERATIVOS
+
+Problema típico:
+Los gerentes y jefes de área necesitan datos para tomar decisiones, pero dependen del área de TI o de analistas para hacer consultas al ERP o a las bases de datos.
+El time-to-insight es de días o semanas.
+
+Cómo resuelve TooxIA:
+TooxIA se conecta a las fuentes de datos del cliente (ERP, CRM, bases de datos, Excel).
+Permite consultar en lenguaje natural: "¿Cuál es el margen del último trimestre por línea de producto?" o "¿Qué proveedores tienen facturas vencidas?".
+Genera respuestas con datos actualizados, sin necesidad de un analista intermediario.
+
+Resultado típico:
+Decisiones más rápidas y basadas en datos reales.
+Menor carga sobre el área de TI para reportes rutinarios.
+Mayor autonomía de los equipos de negocio.
+
+¿Para qué tipo de empresa aplica?
+Empresas con datos distribuidos en múltiples sistemas o con alta demanda de reportes ad-hoc.
+
+CASO DE USO 5: ASISTENTE PARA LICITACIONES Y MERCADO PÚBLICO
+
+Problema típico:
+El equipo que gestiona licitaciones públicas recibe bases extensas, responde las mismas preguntas una y otra vez, y pierde aprendizaje histórico entre postulaciones.
+
+Cómo resuelve TooxIA:
+TooxIA mantiene una base de conocimiento con respuestas a preguntas frecuentes de licitaciones.
+Ayuda a redactar respuestas técnicas basándose en postulaciones anteriores exitosas.
+Alerta sobre plazos y requisitos faltantes.
+
+Resultado típico:
+Tiempo de preparación de postulaciones reducido en 40-60%.
+Mayor consistencia y calidad en las respuestas.
+Aprendizaje acumulado entre licitaciones.
+
+CASO DE USO 6: ASISTENTE DE MANTENIMIENTO EN PLANTA (INTEGRADO CON XPERTMAINT)
+
+Problema típico:
+Los técnicos de turno no siempre tienen acceso al conocimiento experto cuando lo necesitan.
+El experto no está disponible las 24 horas ni en todos los turnos.
+
+Cómo resuelve TooxIA:
+TooxIA integra el conocimiento experto capturado por XpertMaint.
+Permite al técnico preguntar: "¿Cuál es el procedimiento de mantenimiento para la bomba BM-03?" o "¿Qué hago si el equipo muestra alarma A7?".
+Responde con instrucciones paso a paso y referencias al historial de fallas similares.
+
+Resultado típico:
+Menor dependencia del experto físicamente presente.
+Reducción en tiempos de resolución de fallas.
+Menor variabilidad entre turnos y personas.
+
+PREGUNTAS FRECUENTES SOBRE TOOXIA
+
+¿TooxIA reemplaza personas?
+No. Reduce carga operativa y error humano, pero la decisión final sigue siendo de la organización.
+El beneficio está en liberar tiempo y mejorar la calidad del trabajo.
+
+¿Qué tan rápido aprende el agente?
+El agente parte con el conocimiento que se le entrega en la implementación.
+A medida que recibe consultas, mejora su capacidad de respuesta con supervisión del equipo de Tooxs.
+
+¿Dónde se integra TooxIA?
+Microsoft 365, sistemas core del cliente, plataformas documentales, ERP, CRM y flujos operativos.
+
+¿Los colaboradores necesitan capacitación especial?
+No. La interfaz es conversacional, similar a un chat. Cualquier usuario puede interactuar sin entrenamiento técnico.
+
+¿Cuándo NO recomendar TooxIA?
+No recomendar TooxIA cuando el proceso ocurre de forma esporádica o poco frecuente, no existen reglas claras de decisión, o el volumen e impacto no justifican una solución inteligente.
+En esos casos, TooxIA agregaría complejidad sin generar retorno.

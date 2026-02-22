@@ -1,0 +1,74 @@
+SEGURIDAD Y PRIVACIDAD – TOOXS
+
+PRINCIPIO GENERAL
+
+Tooxs trata la seguridad como un requisito, no como una opción.
+En cada proyecto, la evaluación de seguridad, accesos y cumplimiento forma parte de la etapa de discovery.
+
+Los datos del cliente son del cliente. Siempre.
+
+CÓMO ABORDA TOOXS LA SEGURIDAD EN LOS PROYECTOS
+
+Evaluación de seguridad desde el inicio.
+Antes de diseñar cualquier solución, Tooxs entiende los requisitos de seguridad del cliente: dónde residen los datos, quién tiene acceso, qué normativas aplican.
+
+Arquitectura adaptada a los requisitos del cliente.
+Cuando el cliente tiene restricciones estrictas (sector financiero, minería, salud, gobierno), Tooxs adapta la arquitectura para cumplirlas.
+En muchos casos, la solución se implementa dentro de la infraestructura del cliente, sin que los datos salgan de su entorno.
+
+Control de accesos y permisos.
+Los accesos a los sistemas y datos del cliente se definen, documentan y limitan al mínimo necesario para el funcionamiento de la solución.
+Tooxs no tiene acceso permanente a los sistemas del cliente sin autorización explícita.
+
+Confidencialidad de los datos.
+Tooxs no usa datos de un cliente para entrenar modelos de otro cliente ni para ningún propósito fuera del proyecto.
+La información del cliente no se comparte con terceros sin autorización.
+
+OPCIONES DE DESPLIEGUE SEGÚN REQUISITOS DE SEGURIDAD
+
+Cloud público (Azure, Google Cloud).
+Para clientes que pueden alojar sus datos en la nube de un proveedor certificado. Ofrece escalabilidad y menor costo de infraestructura.
+
+On-premise.
+La solución se instala y opera dentro de la infraestructura propia del cliente. Los datos no salen del entorno del cliente en ningún momento.
+
+Híbrido.
+Una combinación donde el procesamiento ocurre en la infraestructura del cliente, pero partes de la solución utilizan servicios cloud de forma controlada.
+
+La elección del modelo de despliegue se define en la etapa de discovery, según los requisitos de seguridad, cumplimiento y las preferencias del cliente.
+
+CUMPLIMIENTO NORMATIVO
+
+Tooxs trabaja con clientes en sectores regulados: minería, financiero, construcción y otros.
+En estos contextos, el diseño de la solución incluye la evaluación del cumplimiento con las normativas aplicables al cliente.
+Tooxs no asume que cumple automáticamente con todas las normativas: lo evalúa caso a caso con el cliente y su equipo legal o de seguridad.
+
+SOBRE EL AGENTE DE CHAT
+
+El agente de chat de Tooxs no solicita:
+Contraseñas ni credenciales de sistemas.
+Datos bancarios o financieros.
+Información personal sensible más allá del nombre, empresa y correo de contacto.
+Información confidencial del negocio del cliente.
+
+Si el agente recibe este tipo de información por error, no la procesa ni la almacena.
+
+CÓMO RESPONDE EL AGENTE ANTE PREGUNTAS DE SEGURIDAD
+
+Cuando el prospecto pregunta por seguridad, el agente debe validar la preocupación y ofrecer una conversación específica con el equipo técnico de Tooxs:
+
+"La seguridad es uno de los temas que más nos importa en cada proyecto. Lo que puedo decirle es que Tooxs evalúa los requisitos de seguridad del cliente desde el inicio y adapta la arquitectura para cumplirlos. Para dar una respuesta específica a su contexto, lo más útil es coordinarlo con nuestro equipo técnico. ¿Le parece?"
+
+PREGUNTAS FRECUENTES SOBRE SEGURIDAD
+
+¿Los datos de nuestra empresa salen de nuestros sistemas?
+Depende de la arquitectura elegida. En muchos casos, Tooxs puede implementar la solución completamente dentro de la infraestructura del cliente. Esto se define en el discovery.
+
+¿Tienen certificaciones de seguridad?
+Las certificaciones relevantes para cada proyecto se evalúan en función de los requisitos del cliente. Para detalles específicos, el equipo técnico de Tooxs puede responder directamente.
+
+¿Qué pasa si queremos auditar la solución?
+Tooxs diseña sus soluciones con trazabilidad y documentación que facilita auditorías internas o externas. El cliente tiene acceso a los registros de actividad de la solución.
+
+¿Podemos hacer una revisión de seguridad antes de implementar?
+Sí. Muchos clientes en sectores regulados incluyen una revisión de seguridad con su propio equipo o con un tercero antes de la implementación. Tooxs colabora activamente en este proceso.
