@@ -1,0 +1,109 @@
+SUCURSAL VIRTUAL INTELIGENTE Y RESOLUTOR DE RECLAMOS – TOOXS
+
+1. SUCURSAL VIRTUAL INTELIGENTE
+
+Que es?
+La Sucursal Virtual Inteligente es una solución de atención al cliente basada en inteligencia artificial que centraliza y automatiza la asistencia de manera eficiente y personalizada a través de múltiples canales digitales. Disponible 24/7, sin restricciones de horario.
+
+Que problemas resuelve?
+Equipos de atención al cliente saturados de consultas repetitivas.
+Clientes que no pueden acceder a información o realizar transacciones fuera del horario de oficina.
+Falta de consistencia en la información entregada por distintos agentes.
+Altos costos operativos de centros de atención telefónica o presencial.
+Demoras en la entrega de documentos o respuestas a clientes.
+
+Funcionalidades principales:
+Chat con IA Generativa: Permite consultas con respuestas precisas y naturales, simulando la interacción con un humano.
+Automatización del envío de documentos: Los clientes reciben rápidamente en sus dispositivos (WhatsApp o correo electrónico) los documentos que solicitan.
+Consultas y transacciones en línea: Los clientes pueden consultar por productos, estados de cuenta, hacer solicitudes y realizar transacciones sin necesidad de hablar con un agente humano.
+
+Beneficios para la empresa:
+Mejora la atención al cliente con respuestas rápidas y precisas.
+Automatiza procesos: elimina la necesidad de intervención humana en la atención y el proceso de consulta.
+Disponibilidad 24/7: los clientes acceden a la información que precisan en cualquier momento.
+Reducción de costos operativos de atención al cliente.
+Libera al equipo humano para atender casos complejos y de mayor valor.
+
+Para qué tipo de empresa aplica?
+Banca, servicios financieros, telecomunicaciones, retail, utilities, salud, seguros y cualquier empresa con alto volumen de interacciones con clientes.
+
+Cuándo RECOMENDAR la Sucursal Virtual Inteligente:
+El equipo de atención al cliente recibe consultas repetitivas que ocupan la mayor parte del tiempo.
+Existe demanda de atención fuera del horario de oficina.
+La empresa quiere escalar la atención sin aumentar dotación.
+Se necesita consistencia en la información entregada a los clientes.
+Los clientes necesitan acceder a documentos o realizar transacciones simples de forma autónoma.
+
+Cuándo NO recomendar:
+El volumen de interacciones con clientes es muy bajo.
+Las consultas son todas únicas y complejas, sin patrones repetitivos.
+La empresa no está dispuesta a digitalizar su proceso de atención.
+
+Relación con TooxIA:
+La Sucursal Virtual Inteligente es una aplicación específica de TooxIA orientada al cliente externo. TooxIA es la plataforma de agentes inteligentes que también se usa para procesos internos. La diferencia está en el destinatario: Sucursal Virtual atiende clientes, TooxIA atiende colaboradores y procesos internos.
+
+Preguntas frecuentes sobre Sucursal Virtual Inteligente:
+
+Por qué canales funciona?
+Principalmente chat web, WhatsApp y correo electrónico. Los canales específicos se definen según las necesidades del cliente.
+
+Puede hacer transacciones reales?
+Sí, integrada con los sistemas del cliente puede ejecutar consultas y operaciones. El alcance transaccional se define en el discovery.
+
+Se integra con el CRM o ERP del cliente?
+Sí. La integración con los sistemas del cliente se evalúa y define en la etapa de discovery.
+
+
+2. RESOLUTOR INTELIGENTE DE RECLAMOS
+
+Que es?
+El Resolutor Inteligente de Reclamos es una solución basada en IA que ayuda a gestionar, clasificar y resolver las quejas y reclamos de clientes de forma eficiente, reduciendo tiempos de respuesta y mejorando la consistencia en el tratamiento de cada caso.
+
+Que problemas resuelve?
+Alto volumen de reclamos que colapsa al equipo de atención.
+Falta de trazabilidad del estado de cada reclamo.
+Inconsistencia en los criterios de clasificación y priorización.
+Tiempos de resolución excesivamente largos.
+Dificultad para identificar patrones y causas raíz de los reclamos.
+
+Funcionalidades principales:
+Identificación de patrones: Reconoce reglas dentro de los reclamos para mejorar la comprensión de los problemas recurrentes.
+Clasificación y priorización: Organiza los reclamos según su importancia y urgencia. Por ejemplo: mala atención, operaciones incompletas, errores de cobro, problemas de servicio.
+Seguimiento automatizado: Asegura una gestión eficiente mediante seguimiento continuo del estado de cada reclamo.
+Alertas de escalamiento: Notifica automáticamente cuando un reclamo supera el tiempo de resolución esperado.
+
+Beneficios para la empresa:
+Mayor control y visibilidad del estado de cada reclamo.
+Mejora en la atención al cliente resolviendo reclamos de manera rápida y efectiva.
+Automatiza el proceso de atención de reclamos, liberando recursos para tareas más estratégicas.
+Identificación de causas raíz para mejorar procesos y reducir la recurrencia.
+Mejora métricas de satisfacción del cliente (NPS, CSAT, tiempo de resolución).
+
+Para qué tipo de empresa aplica?
+Banca, telecomunicaciones, retail, utilities, salud, seguros y cualquier empresa con alto volumen de reclamos y exigencias regulatorias de respuesta.
+
+Cuándo RECOMENDAR el Resolutor de Reclamos:
+La empresa recibe un volumen significativo de reclamos por múltiples canales.
+Los tiempos de resolución son altos o inconsistentes.
+Existe presión regulatoria para responder reclamos en plazos definidos.
+El equipo invierte mucho tiempo clasificando y priorizando manualmente.
+Se necesita trazabilidad y evidencia del tratamiento de cada reclamo.
+
+Cuándo NO recomendar:
+El volumen de reclamos es muy bajo (menos de 50 al mes).
+Los reclamos son todos únicos y no siguen ningún patrón.
+No existe compromiso con mejorar los tiempos de resolución.
+
+Relación con DocAI:
+Cuando los reclamos llegan en formato de documentos adjuntos (cartas, formularios, correos con archivos), DocAI puede complementar al Resolutor procesando e interpretando esos documentos de forma automática.
+
+Preguntas frecuentes sobre Resolutor de Reclamos:
+
+Por qué canales llegan los reclamos que puede gestionar?
+Correo electrónico, formularios web, plataformas de atención al cliente. Los canales específicos se definen en el discovery.
+
+Se integra con plataformas de CRM o mesa de ayuda?
+Sí. Puede integrarse con Salesforce, HubSpot, Zendesk y otros sistemas. Las integraciones se evalúan en discovery.
+
+Puede responder automáticamente al cliente?
+Sí, en casos donde el reclamo tiene una respuesta estándar. Para casos complejos, el sistema escala a un agente humano con el contexto completo del reclamo.
