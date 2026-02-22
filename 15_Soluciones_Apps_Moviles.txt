@@ -1,0 +1,141 @@
+APLICACIONES MÓVILES – TOOXS
+
+Tooxs desarrolla aplicaciones móviles para industrias que necesitan digitalizar operaciones en campo, planta o terreno. Estas soluciones permiten registrar, gestionar y analizar información en tiempo real desde dispositivos móviles, conectadas con los sistemas centrales de la empresa.
+
+1. APPS PARA SEGURIDAD INDUSTRIAL
+
+Que es?
+Una aplicación móvil que facilita el registro de incidentes y mejora el cumplimiento de normas de seguridad laboral en operaciones industriales.
+
+Funcionalidades principales:
+Registro de incidentes con fotos, videos y firmas de supervisor desde el dispositivo móvil.
+Tablero de gestión que clasifica incidentes por tipo, lugar y gravedad.
+Generación de informes comparativos para diferentes períodos.
+Alertas y notificaciones automáticas ante eventos críticos.
+
+Beneficios para la empresa:
+Mejora la gestión de riesgos con datos precisos y en tiempo real.
+Facilita el cumplimiento de normativas de seguridad laboral.
+Optimiza la gestión de incidentes con análisis comparativos.
+Reduce el tiempo de reporte y documentación post-incidente.
+
+Para qué tipo de empresa aplica?
+Minería, construcción, industria pesada, utilities y cualquier operación con alto riesgo laboral o exigencias regulatorias de seguridad.
+
+Cuándo RECOMENDAR esta solución:
+La empresa tiene operaciones en terreno o planta con riesgo de accidentes.
+El registro de incidentes se hace manualmente en papel o Excel.
+Existe presión regulatoria o de fiscalización en materia de seguridad.
+Se necesita trazabilidad de incidentes con evidencia fotográfica.
+
+Cuándo NO recomendar:
+Las operaciones son solo de oficina y el riesgo laboral es bajo.
+Ya existe una plataforma de seguridad funcionando bien.
+
+
+2. APPS MÓVILES PARA MANTENIMIENTO
+
+Que es?
+Una aplicación que digitaliza el proceso de mantenimiento en planta o campo, reemplazando formularios en papel y procesos manuales.
+
+Funcionalidades principales:
+Registro de órdenes de trabajo desde el dispositivo móvil.
+Consulta de historial de equipos y activos.
+Registro de actividades, insumos usados y tiempos de intervención.
+Sincronización con el sistema central (ERP o CMMS).
+
+Beneficios para la empresa:
+Elimina el papel y la digitación posterior de información de campo.
+Mejora la trazabilidad de intervenciones de mantenimiento.
+Permite tomar decisiones con información actualizada en tiempo real.
+Reduce errores por transcripción manual.
+
+Para qué tipo de empresa aplica?
+Empresas con equipos industriales, flotas vehiculares o instalaciones que requieren mantenimiento regular.
+
+Cuándo RECOMENDAR esta solución:
+El mantenimiento se registra en papel o Excel.
+Los técnicos no tienen acceso fácil al sistema central desde la planta.
+Se necesita trazabilidad de intervenciones y tiempos.
+
+Cuándo NO recomendar:
+El volumen de mantenimiento es muy bajo.
+Ya existe una app de mantenimiento funcionando.
+
+
+3. APPS MÓVILES PARA SERVICIOS EN TERRENO
+
+Que es?
+Una aplicación para supervisar y gestionar digitalmente las tareas de equipos que trabajan fuera de la oficina central: técnicos, inspectores, ejecutivos de campo.
+
+Funcionalidades principales:
+Asignación y seguimiento de tareas en tiempo real.
+Registro de visitas, actividades y resultados desde el terreno.
+Geolocalización y control de cobertura del equipo.
+Sincronización automática con el sistema central.
+
+Beneficios para la empresa:
+Mayor visibilidad sobre el trabajo del equipo en terreno.
+Menor dependencia de reportes manuales al volver a la oficina.
+Mejor coordinación y asignación de recursos.
+Evidencia de visitas y actividades realizadas.
+
+Para qué tipo de empresa aplica?
+Empresas con fuerza de ventas externa, técnicos de servicio, inspectores o cualquier equipo que opera fuera de la oficina.
+
+Cuándo RECOMENDAR esta solución:
+El equipo de terreno reporta manualmente al final del día.
+No hay visibilidad en tiempo real del trabajo en campo.
+Se necesita evidencia de visitas o actividades realizadas.
+
+Cuándo NO recomendar:
+El equipo trabaja 100% en oficina.
+El volumen de actividades en terreno no justifica la solución.
+
+
+4. APPS MÓVILES PARA PRODUCCIÓN
+
+Que es?
+Una aplicación que digitaliza y centraliza la gestión de datos de producción en planta, reemplazando registros manuales y planillas.
+
+Funcionalidades principales:
+Registro de datos de producción en tiempo real desde la planta.
+Control de turnos, tiempos de ciclo y eficiencia operacional.
+Alertas ante desviaciones de parámetros productivos.
+Integración con sistemas de gestión y ERP del cliente.
+
+Beneficios para la empresa:
+Datos de producción disponibles en tiempo real para la gerencia.
+Eliminación de registros en papel y errores de transcripción.
+Mayor control sobre la eficiencia y productividad por turno.
+Trazabilidad completa del proceso productivo.
+
+Para qué tipo de empresa aplica?
+Industrias manufactureras, agroindustria, minería y cualquier operación con líneas de producción que requieren registro y control.
+
+Cuándo RECOMENDAR esta solución:
+Los datos de producción se registran manualmente en papel o Excel.
+La gerencia no tiene visibilidad en tiempo real de lo que ocurre en planta.
+Existe variabilidad entre turnos por falta de datos estandarizados.
+
+Cuándo NO recomendar:
+La producción ya cuenta con sistemas de SCADA u OT bien integrados.
+El volumen productivo no justifica una aplicación dedicada.
+
+
+PREGUNTAS FRECUENTES SOBRE APPS MÓVILES
+
+Las apps funcionan sin internet (modo offline)?
+Si. Las aplicaciones están diseñadas para funcionar en zonas con conectividad limitada. Los datos se sincronizan automáticamente cuando se recupera la conexión.
+
+Con qué sistemas se integran?
+Se integran con SAP, Odoo, Microsoft 365, CMMS y otros sistemas del cliente. Las integraciones se evalúan en la etapa de discovery.
+
+Son apps nativas o web?
+Depende del caso de uso y los requisitos del cliente. Tooxs desarrolla tanto apps nativas como soluciones web responsivas optimizadas para móvil.
+
+El cliente puede personalizar las apps?
+Si. Las aplicaciones se desarrollan a medida o se configuran sobre plataformas existentes según las necesidades específicas del cliente.
+
+Cuánto tiempo tarda el desarrollo?
+Una app de alcance acotado puede entregarse en 6-10 semanas. Proyectos más complejos se planifican en fases con entregas incrementales.
