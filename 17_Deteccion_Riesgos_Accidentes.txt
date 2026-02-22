@@ -1,0 +1,74 @@
+DETECCIÓN DE RIESGOS DE ACCIDENTES – TOOXS
+
+Que es?
+Detección de Riesgos de Accidentes es una solución de visión computacional e inteligencia artificial que analiza videos e imágenes en tiempo real para identificar condiciones de riesgo laboral, verificar el cumplimiento de normas de seguridad y generar alertas inmediatas ante situaciones de peligro.
+
+No es un sistema de vigilancia pasivo. Es un sistema activo de prevención que detecta riesgos antes de que ocurran los accidentes.
+
+Que problemas resuelve?
+Accidentes laborales por condiciones de riesgo no detectadas a tiempo.
+Incumplimiento del uso de Equipos de Protección Personal (EPP).
+Dificultad para supervisar múltiples zonas de trabajo simultáneamente.
+Reacción tardía ante situaciones de peligro.
+Alto costo humano y financiero de accidentes e incidentes laborales.
+Presión regulatoria y de fiscalización en materia de seguridad (Ley de Accidentes del Trabajo, normativas sectoriales).
+
+Funcionalidades principales:
+Análisis en tiempo real: Utiliza inteligencia artificial para evaluar videos e imágenes, detectando riesgos de manera instantánea y continua.
+Detección y clasificación automatizada: Identifica objetos, colores y texto en las imágenes mediante tecnología avanzada. Reconoce personas, vehículos, herramientas y condiciones de riesgo.
+Segmentación inteligente: Reconoce el uso adecuado de equipos de protección personal (EPP) como cascos, chalecos, guantes, lentes de seguridad. Delimita y monitorea zonas seguras y restringidas en el lugar de trabajo.
+Alertas inmediatas: Genera notificaciones instantáneas ante peligros potenciales. Las alertas se envían al supervisor o responsable de seguridad en tiempo real.
+
+Beneficios para la empresa:
+Previene accidentes identificando condiciones de riesgo antes de que ocurran.
+Garantiza el cumplimiento de normas de seguridad de manera continua y objetiva.
+Incrementa la productividad evitando interrupciones, reemplazos y licencias médicas.
+Reduce costos asociados a accidentes: indemnizaciones, multas, paros de producción.
+Evidencia objetiva y trazabilidad para auditorías e investigación de incidentes.
+Permite supervisar múltiples puntos de la operación simultáneamente sin aumentar dotación de supervisores.
+
+Para qué tipo de empresa aplica?
+Minería, construcción, industria manufacturera, utilities, agroindustria y cualquier operación con riesgo de accidentes laborales y requisitos de cumplimiento normativo en seguridad.
+
+Cuándo RECOMENDAR Detección de Riesgos de Accidentes:
+La operación tiene un historial de accidentes o incidentes laborales.
+Existen zonas de alto riesgo que son difíciles de supervisar continuamente.
+Hay exigencias regulatorias o de fiscalización en materia de EPP y seguridad.
+El costo de un accidente (económico, reputacional, legal) es significativo.
+La empresa quiere evidencia objetiva del cumplimiento de normas de seguridad.
+Se busca pasar de una cultura reactiva a una cultura preventiva en seguridad.
+
+Cuándo NO recomendar:
+La operación es principalmente de oficina y el riesgo laboral es bajo.
+No existe infraestructura de cámaras o no es viable instalarla.
+El volumen de operaciones en terreno no justifica la inversión.
+La empresa no está dispuesta a usar la información de alertas para tomar acciones correctivas.
+
+Relación con Apps de Seguridad Industrial:
+Estas dos soluciones son complementarias. La Detección de Riesgos funciona de manera preventiva y automatizada mediante cámaras. Las Apps de Seguridad Industrial se usan para el registro manual y gestión de incidentes por el personal. Pueden implementarse de forma independiente o conjunta.
+
+Tecnología utilizada:
+Modelos de visión computacional entrenados para detección de EPP y condiciones de riesgo.
+Procesamiento de video en tiempo real.
+Integración con sistemas de notificación y alertas del cliente.
+Compatible con cámaras IP existentes en la mayoría de los casos.
+
+PREGUNTAS FRECUENTES SOBRE DETECCIÓN DE RIESGOS
+
+Requiere instalar cámaras nuevas?
+En muchos casos se puede trabajar con las cámaras que el cliente ya tiene instaladas, siempre que cumplan con los requisitos mínimos de resolución. En la etapa de discovery se evalúa la infraestructura existente.
+
+Funciona en ambientes con poca luz o condiciones difíciles?
+Depende de las condiciones específicas. Existen cámaras con visión nocturna o térmicas que permiten operar en condiciones de baja iluminación. Esto se evalúa en el discovery según el entorno de la operación.
+
+Qué pasa cuando detecta un riesgo?
+El sistema genera una alerta inmediata que se envía al supervisor o responsable de seguridad. El protocolo de respuesta ante la alerta es definido por el cliente junto con Tooxs durante la implementación.
+
+Genera falsos positivos?
+Los modelos se calibran y ajustan durante la implementación al entorno específico del cliente para minimizar falsos positivos. El nivel de precisión mejora con el tiempo de operación.
+
+Cumple con normativas de privacidad?
+El uso de cámaras en el lugar de trabajo debe cumplir con la normativa de privacidad aplicable en cada país. Tooxs evalúa este aspecto en el discovery y recomienda las mejores prácticas de implementación.
+
+Cuánto tiempo tarda la implementación?
+Depende de la cantidad de puntos de monitoreo y la infraestructura existente. Una implementación inicial puede estar operativa en 4-8 semanas.
